@@ -1,5 +1,5 @@
 ######################## default configuration ####################
-baseURL = "https:covidstudentresponse.org"
+baseURL = "https://romantic-heyrovsky-3832f8.netlify.com/"
 title = "Educenter | hugo education template"
 theme = "educenter-hugo"
 # post pagination
