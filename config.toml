@@ -1,13 +1,13 @@
 ######################## default configuration ####################
 baseURL = "https://romantic-heyrovsky-3832f8.netlify.com/"
-title = "Educenter | hugo education template"
+title = "COVID-19 Student Response"
 theme = "educenter-hugo"
 # post pagination
 paginate = "6"
 # post excerpt
 summaryLength = "10"
 # disqus short name
-disqusShortname = "educenter" # get your shortname form here : https://disqus.com
+disqusShortname = "" # get your shortname form here : https://disqus.com
 # disable language
 disableLanguages = [] # desable language from here
 
@@ -46,44 +46,49 @@ link = "plugins/google-map/gmap.js"
 # main menu
 [[menu.main]]
 name = "About"
-URL = "about"
+# URL = "about"
 weight = 1
-
-[[menu.main]]
-name = "Committees"
-URL = "course"
-weight = 2
 hasChildren = true
 
   [[menu.main]]
-  parent = "Committees"
-  name = "Non-medical Activism"
-  URL = "course-1"
+  parent = "About"
+  name = "About us"
+  URL = "about"
 
   [[menu.main]]
-  parent = "Committees"
+  parent = "About"
+  name = "Community Activism"
+  URL = "about/comm-activism"
+
+  [[menu.main]]
+  parent = "About"
   name = "Medical Activism"
-  URL = "course-2"
+  URL = "about/med-activism"
 
   [[menu.main]]
-  parent = "Committees"
+  parent = "About"
   name = "Community Education"
-  URL = "course-3"
+  URL = "about/comm-ed"
 
   [[menu.main]]
-  parent = "Committees"
+  parent = "About"
   name = "Medical Education"
-  URL = "course-4"
+  URL = "about/med-ed"
 
 [[menu.main]]
 weight = 3
 name = "Curriculum"
-URL = "curriculum"
+URL = "https://futuremdvscovid.gitbook.io/covid19-curriculum/"
   
-# [[menu.main]]
-# name = "blog"
-# URL = "blog"
-# weight = 4
+[[menu.main]]
+name = "Resources"
+# URL = "resources"
+weight = 4
+
+  [[menu.main]]
+  parent = "Resources"
+  name = "Fact sheets"
+  URL = "fact-sheets"
   
 [[menu.main]]
 name = "Contact"
@@ -118,8 +123,8 @@ URL = "research"
 [params]
 logo = "images/logo.png"
 # Meta data
-description = "This is meta description"
-author = "Themefisher"
+description = "Coordinating the medical student response to COVID-19"
+author = "Benjamin Levy"
 # contact info
 email = "hmscovid19studentresponse@gmail.com"
 # contact form action
@@ -160,6 +165,11 @@ title = "instagram"
 icon = "ti-instagram" # themify icon : https://themify.me/themify-icons
 link = "https://www.instagram.com/futuremdvscovid/"
 
+[[params.social]]
+title = "facebook"
+icon = "ti-facebook"
+link = "https://www.facebook.com/futureMDvsCOVID/"
+
 
 ################################### English language #####################################
 [Languages.en]
@@ -169,4 +179,4 @@ contentDir = "content/english"
 weight = 1
 home = "Home"
 # copyright
-copyright = "Copyright &copy; 2020 a hugo theme by [themefisher](https://themefisher.com)"
+copyright = "Copyright &copy; 2020 [Benjamin Levy](https://benlevyx.github.io)"

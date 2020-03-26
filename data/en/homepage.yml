@@ -12,29 +12,29 @@ slider:
       button:
         enable : true
         label : "Read now"
-        link : "curriculum"
+        link : "https://futuremdvscovid.gitbook.io/covid19-curriculum/"
 
     # slider item loop
-    - title : "More news"
-      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et magna aliqua. Ut enim ad minim veniam, quis nostrud exer"
+    - title : "In the news"
+      content : ""
       animation_in : "left"
       animation_out : "right"
       # available animation : left, right, up, down
       button:
         enable : true
         label : "Read now"
-        link : "contact"
+        link : "#"
 
     # slider item loop
     - title : "Meet our committees"
-      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et magna aliqua. Ut enim ad minim veniam, quis nostrud exer"
+      content : "Education and activism; for the medical and non-medical communities."
       animation_in : "left"
       animation_out : "right"
       # available animation : left, right, up, down
       button:
         enable : true
         label : "Read now"
-        link : "courses"
+        link : "about"
 
 
 ############################### Banner feature ###############################
@@ -89,7 +89,7 @@ cta:
   button:
     enable : true
     label : "Read Now"
-    link : "curriculum"
+    link : "https://futuremdvscovid.gitbook.io/covid19-curriculum/"
 
 
 ######################## Success story #############################

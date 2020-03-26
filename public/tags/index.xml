@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on COVID-19 Student Response</title>
+    <link>https://romantic-heyrovsky-3832f8.netlify.com/tags/</link>
+    <description>Recent content in Tags on COVID-19 Student Response</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Copyright &amp;copy; 2020 [Benjamin Levy](https://benlevyx.github.io)</copyright>
+    <lastBuildDate>Sat, 06 Jul 2019 15:27:17 +0600</lastBuildDate>
+    
+	<atom:link href="https://romantic-heyrovsky-3832f8.netlify.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Advice</title>
+      <link>https://romantic-heyrovsky-3832f8.netlify.com/tags/advice/</link>
+      <pubDate>Sat, 06 Jul 2019 15:27:17 +0600</pubDate>
+      
+      <guid>https://romantic-heyrovsky-3832f8.netlify.com/tags/advice/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Automation</title>
+      <link>https://romantic-heyrovsky-3832f8.netlify.com/tags/automation/</link>
+      <pubDate>Sat, 06 Jul 2019 15:27:17 +0600</pubDate>
+      
+      <guid>https://romantic-heyrovsky-3832f8.netlify.com/tags/automation/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
