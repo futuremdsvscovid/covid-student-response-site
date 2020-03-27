@@ -7,17 +7,15 @@ bg_image: "images/backgrounds/page-title.jpg"
 image: "images/about/about-page.jpg"
 # meta description
 description : ""
+type: about
 ---
 
 ## Organizing Medical Students to Fight COVID-19
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore
-et.dolore magna aliqua. Ut enim ad minim veniam, quis nostrud. Lorem ipsum dolor sit amet consectetur,
-adipisicing elit. Saepe ipsa illo quod veritatis, magni debitis fugiat dolore voluptates! Consequatur,
-aliquid. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quaerat perferendis sint optio similique.
-Et amet magni facilis vero corporis quos.
+This student-led team first gathered together on March 15th to rapidly develop an organizational structure to coordinate and augment the HMS student body response to COVID-19 in collaboration with the HMS administration, leadership, affiliated hospitals, and community partners. 
 
-exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit
-in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Lorem ipsum, dolor sit amet consectetur
-adipisicing elit. Ipsum a, facere fugit error accusamus est officiis vero in, nostrum laboriosam corrupti
-explicabo, cumque repudiandae deleniti perspiciatis quae consectetur enim. Laboriosam!
+Currently, there are four overarching committees that are supported by hundreds of members across the student body. The structure will continue to evolve as the response grows. The Response Team embraces the principles of being adaptive, nimble, and inclusive for all initiatives that will optimize our collective impact as a medical student body. We will be planning to post more updates on a full website shortly along with highlighting various initiatives within each of the existing committees. 
+
+For more information now on how to connect with our efforts and help us broaden them, please contact: hmscovid19studentresponse@gmail.com 
+
+Co-Leaders and Committee Oversight: Shivangi Goel, Kirstin Woody Scott, and Derek Soled
