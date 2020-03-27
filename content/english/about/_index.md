@@ -14,7 +14,7 @@ type: about
 
 This student-led team first gathered together on March 15th to rapidly develop an organizational structure to coordinate and augment the HMS student body response to COVID-19 in collaboration with the HMS administration, leadership, affiliated hospitals, and community partners. 
 
-Currently, there are four overarching committees that are supported by hundreds of members across the student body. The structure will continue to evolve as the response grows. The Response Team embraces the principles of being adaptive, nimble, and inclusive for all initiatives that will optimize our collective impact as a medical student body. We will be planning to post more updates on a full website shortly along with highlighting various initiatives within each of the existing committees. 
+Currently, there are four overarching committees that are supported by hundreds of members across the student body. The structure will continue to evolve as the response grows. The Response Team embraces the principles of being adaptive, nimble, and inclusive for all initiatives that will optimize our collective impact as a medical student body.
 
 For more information now on how to connect with our efforts and help us broaden them, please contact: hmscovid19studentresponse@gmail.com 
 
