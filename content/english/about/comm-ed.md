@@ -7,7 +7,7 @@ bg_image: "images/backgrounds/page-title.jpg"
 # meta description
 description : ""
 # course thumbnail
-image: "images/about/comm-ed-team-photo.png"
+image: "images/about/comm-ed-team-photo.jpg"
 leads: ["Kruti Vora", "Nicky Joseph"]
 type: "course"
 ---
