@@ -7,7 +7,7 @@ bg_image: "images/backgrounds/page-title.jpg"
 # meta description
 description : ""
 # course thumbnail
-image: "images/about/future-mds-vs-covid.jpg"
+image: "images/about/comm-ed-team-photo.png"
 leads: ["Kruti Vora", "Nicky Joseph"]
 type: "course"
 ---
