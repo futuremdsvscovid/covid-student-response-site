@@ -23,7 +23,7 @@ slider:
       button:
         enable : true
         label : "Read now"
-        link : "#"
+        link : "news"
 
     # slider item loop
     - title : "Meet our committees"
