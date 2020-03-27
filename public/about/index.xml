@@ -6,7 +6,7 @@
     <description>Recent content in About Us on COVID-19 Student Response</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>Copyright &amp;copy; 2020 [Benjamin Levy](https://benlevyx.github.io)</copyright>
+    <copyright>Website copyright &amp;copy; 2020 [Benjamin Levy](https://benlevyx.github.io)</copyright>
     <lastBuildDate>Sat, 06 Jul 2019 15:27:17 +0600</lastBuildDate>
     
 	<atom:link href="https://covidstudentresponse.org/about/index.xml" rel="self" type="application/rss+xml" />
@@ -18,7 +18,7 @@
       <pubDate>Sat, 06 Jul 2019 15:27:17 +0600</pubDate>
       
       <guid>https://covidstudentresponse.org/about/med-activism/</guid>
-      <description>About Committee This team has developed and launched a student-led, publicly-available curriculum on COVID-19, which will be updated each Friday.</description>
+      <description>About Committee This team is working with hospital leadership to create a framework for involving the medical student workforce in the clinical needs emerging from hospital sites.</description>
     </item>
     
     <item>
@@ -45,7 +45,7 @@
       <pubDate>Sat, 06 Jul 2019 15:27:17 +0600</pubDate>
       
       <guid>https://covidstudentresponse.org/about/med-ed/</guid>
-      <description>About Committee This team is working with hospital leadership to create a framework for involving the medical student workforce in the clinical needs emerging from hospital sites.</description>
+      <description>About Committee This team has developed and launched a student-led, publicly-available curriculum on COVID-19, which will be updated each Friday.</description>
     </item>
     
   </channel>

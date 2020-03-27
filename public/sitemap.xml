@@ -43,6 +43,41 @@
   </url>
   
   <url>
+    <loc>https://covidstudentresponse.org/categories/</loc>
+    <lastmod>2020-03-26T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://covidstudentresponse.org/tags/community-education/</loc>
+    <lastmod>2020-03-26T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://covidstudentresponse.org/blog/</loc>
+    <lastmod>2020-03-26T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://covidstudentresponse.org/blog/blog-post-1/</loc>
+    <lastmod>2020-03-26T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://covidstudentresponse.org/tags/</loc>
+    <lastmod>2020-03-26T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://covidstudentresponse.org/tags/video/</loc>
+    <lastmod>2020-03-26T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://covidstudentresponse.org/categories/video/</loc>
+    <lastmod>2020-03-26T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://covidstudentresponse.org/about/</loc>
     <lastmod>2019-07-06T15:27:17+06:00</lastmod>
   </url>
@@ -58,37 +93,12 @@
   </url>
   
   <url>
-    <loc>https://covidstudentresponse.org/tags/advice/</loc>
-    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://covidstudentresponse.org/tags/automation/</loc>
-    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://covidstudentresponse.org/categories/automation-system/</loc>
-    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://covidstudentresponse.org/categories/</loc>
-    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://covidstudentresponse.org/about/comm-ed/</loc>
     <lastmod>2019-07-06T15:27:17+06:00</lastmod>
   </url>
   
   <url>
     <loc>https://covidstudentresponse.org/about/med-ed/</loc>
-    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://covidstudentresponse.org/blog/blog-post-1/</loc>
     <lastmod>2019-07-06T15:27:17+06:00</lastmod>
   </url>
   
@@ -123,22 +133,12 @@
   </url>
   
   <url>
-    <loc>https://covidstudentresponse.org/blog/</loc>
-    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://covidstudentresponse.org/notice/</loc>
     <lastmod>2019-07-06T15:27:17+06:00</lastmod>
   </url>
   
   <url>
     <loc>https://covidstudentresponse.org/research/</loc>
-    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://covidstudentresponse.org/tags/</loc>
     <lastmod>2019-07-06T15:27:17+06:00</lastmod>
   </url>
   
@@ -206,6 +206,10 @@
   
   <url>
     <loc>https://covidstudentresponse.org/teacher/duis-rio/</loc>
+  </url>
+  
+  <url>
+    <loc>https://covidstudentresponse.org/news/</loc>
   </url>
   
   <url>
