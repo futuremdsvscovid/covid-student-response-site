@@ -12,7 +12,7 @@ slider:
       button:
         enable : true
         label : "Read now"
-        link : "https://futuremdvscovid.gitbook.io/covid19-curriculum/"
+        link : "https://curriculum.covidstudentresponse.org"
 
     # slider item loop
     - title : "In the news"
@@ -89,7 +89,7 @@ cta:
   button:
     enable : true
     label : "Read Now"
-    link : "https://futuremdvscovid.gitbook.io/covid19-curriculum/"
+    link : "https://curriculum.covidstudentresponse.org"
 
 
 ######################## Success story #############################
