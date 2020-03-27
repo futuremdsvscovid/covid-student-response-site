@@ -8,6 +8,7 @@ bg_image: "images/backgrounds/page-title.jpg"
 description : ""
 # course thumbnail
 image: "images/about/mask-pile.jpg"
+leads: ["Shivangi Goel", "Danika Barry"]
 type: "course"
 ---
 

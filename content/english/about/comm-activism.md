@@ -7,10 +7,10 @@ bg_image: "images/backgrounds/page-title.jpg"
 # meta description
 description : ""
 # course thumbnail
-image: "images/courses/course-1.jpg"
+# image: "images/courses/course-1.jpg"
 # teacher
 # teacher: "Alex Rook"
-leads: ["Parsa Erfani"]
+leads: ["Nishu Uppal", "Parsa Erfani"]
 type: "course"
 ---
 

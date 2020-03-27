@@ -3,13 +3,15 @@
 <!-- section -->
 <section class="section-sm">
   <div class="container">
+    {{ if .Params.Image }}
     <div class="row">
       <div class="col-12 mb-4">
         <!-- course thumb -->
-        <img style="height: 500px;width: 100%;object-fit: cover;" src="{{ .Params.Image | relURL }}"
+        <img style="height: 500px;width: 100%;object-fit: contain;" src="{{ .Params.Image | relURL }}"
           class="img-fluid w-100">
       </div>
     </div>
+    {{ end }}
     <!-- course info -->
     <div class="row align-items-center mb-5">
       <div class="col">
@@ -27,10 +29,10 @@
       </div>
       <!-- teacher -->
       <div class="col-12">
-        <h5 class="mb-3">Leads</h5>
+        <h3 class="mb-3">Leads</h3>
         {{ range .Params.Leads }}
         <div>
-          <h3>{{ . }}</h4>
+          <h4>{{ . }}</h4>
         </div>
         {{ end }}
         <div class="border-bottom border-primary mt-4"></div>

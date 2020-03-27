@@ -7,9 +7,8 @@ bg_image: "images/backgrounds/page-title.jpg"
 # meta description
 description : ""
 # course thumbnail
-image: "images/courses/course-4.jpg"
-# teacher
-# teacher: "Devid Luis"
+# image: "images/courses/course-4.jpg"
+leads: ["Michael Kochis"]
 type: "course"
 ---
 
