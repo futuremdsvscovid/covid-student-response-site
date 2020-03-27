@@ -4,9 +4,5 @@ draft: false
 # page title background image
 bg_image: "images/backgrounds/page-title.jpg"
 # meta description
-description : "this is meta description"
+description : "Posts from @FutureMDvsCOVID on Instagram, Twitter, YouTube, and Facebook."
 ---
-
-### March
-
-https://hms.harvard.edu/news/hms-students-mobilize

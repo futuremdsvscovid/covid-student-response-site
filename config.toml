@@ -95,6 +95,11 @@ hasChildren = true
   name = "PPE Shortage Initiative"
   URL = "campaigns/ppe"
 
+  [[menu.main]]
+  parent = "Campaigns"
+  name = "Social Media"
+  URL = "blog"
+
 [[menu.main]]
 weight = 4
 name = "In the News"
