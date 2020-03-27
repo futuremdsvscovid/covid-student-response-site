@@ -135,7 +135,7 @@ email = "hmscovid19studentresponse@gmail.com"
 # contact form action
 contact_form_action = "#" # contact form works with https://formspree.io
 # Google Analitycs
-google_analitycs_id = "" # your id
+google_analitycs_id = "UA-161953471-3" # your id
 # top header
 top_header = true
 
