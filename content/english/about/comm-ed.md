@@ -7,7 +7,7 @@ bg_image: "images/backgrounds/page-title.jpg"
 # meta description
 description : ""
 # course thumbnail
-image: "images/courses/course-3.jpg"
+image: "images/about/virus-cartoon.png"
 # taxonomy
 # teacher
 # teacher: "Alex Rook" 

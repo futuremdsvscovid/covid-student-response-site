@@ -79,6 +79,11 @@ hasChildren = true
 weight = 3
 name = "Curriculum"
 URL = "https://futuremdvscovid.gitbook.io/covid19-curriculum/"
+
+[[menu.main]]
+weight = 4
+name = "In the News"
+URL = "news"
   
 [[menu.main]]
 name = "Resources"

@@ -7,8 +7,7 @@ bg_image: "images/backgrounds/page-title.jpg"
 # meta description
 description : ""
 # course thumbnail
-image: "images/courses/course-2.jpg"
-# teacher: "Jacke Mastio"
+image: "images/about/mask-pile.jpg"
 type: "course"
 ---
 
