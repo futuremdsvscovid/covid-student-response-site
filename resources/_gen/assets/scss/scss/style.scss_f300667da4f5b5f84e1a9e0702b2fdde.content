@@ -435,9 +435,9 @@ textarea.form-control {
     vertical-align: top;
     border: 1px solid #dee2e6; }
   .content table thead {
-    background: #fed8a4; }
+    background: #dde6ea; }
   .content table tbody {
-    background: #fedcae; }
+    background: #e3ebee; }
     .content table tbody td {
       text-align: left !important; }
 
@@ -448,7 +448,7 @@ textarea.form-control {
 
 .content pre {
   padding: 10px 20px;
-  background: #fedcae; }
+  background: #e3ebee; }
 
 .teacher-thumb-sm {
   height: 85px;

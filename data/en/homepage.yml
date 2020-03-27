@@ -36,7 +36,6 @@ slider:
         label : "Read now"
         link : "about"
 
-
 ############################### Banner feature ###############################
 banner_feature:
   enable : false

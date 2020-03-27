@@ -82,6 +82,21 @@ URL = "https://futuremdvscovid.gitbook.io/covid19-curriculum/"
 
 [[menu.main]]
 weight = 4
+name = "Campaigns"
+hasChildren = true
+
+  [[menu.main]]
+  parent = "Campaigns"
+  name = "Community activism"
+  URL = "campaigns/community-activism"
+
+  [[menu.main]]
+  parent = "Campaigns"
+  name = "PPE Shortage Initiative"
+  URL = "campaigns/ppe"
+
+[[menu.main]]
+weight = 4
 name = "In the News"
 URL = "news"
   
