@@ -54,25 +54,4 @@
 </section>
 <!-- /section -->
 
-<!-- related course -->
-<section class="section pt-0">
-  <div class="container">
-    <div class="row">
-      <div class="col-12">
-        <h2 class="section-title">Other committees</h2>
-      </div>
-    </div>
-    <div class="row">
-      <!-- course item -->
-      {{ $related := (where .Site.RegularPages "Type" "course") | intersect (where .Site.Pages ".Title" "!=" .Title) | union (.Site.RegularPages.Related . ) | shuffle | first 3}}
-      {{ range first 6 $related }}
-      <div class="col-lg-4 col-sm-6 mb-5">
-        {{ .Render "course"}}
-      </div>
-      {{ end }}
-    </div>
-  </div>
-</section>
-<!-- /related course -->
-
 {{ end }}

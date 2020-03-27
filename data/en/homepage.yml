@@ -16,7 +16,7 @@ slider:
 
     # slider item loop
     - title : "In the news"
-      content : ""
+      content : "news"
       animation_in : "left"
       animation_out : "right"
       # available animation : left, right, up, down
@@ -66,18 +66,18 @@ banner_feature:
 ############################## about ##################################
 about:
   enable : true
-  title : "About us"
-  image : "images/about/team-photo.jpg"
-  content : This student-led team first gathered together on March 15th to rapidly develop an organizational structure to coordinate and augment the HMS student body response to COVID-19 in collaboration with the HMS administration, leadership, affiliated hospitals, and community partners. 
+  title : ""
+  image : "images/about/hms-building.jpg"
+  content : Welcome to the COVID-19 student response page. This team was founded by students at Harvard Medical School with chapters throughout the country.
   button:
     enable : true
-    label : "Learn more"
+    label : "About us"
     link : "about"
 
 
 ############################# courses ################################
 course:
-  enable : true
+  enable : false
   title : "Committees"
   # course item comes from "content/**/course" folder.
 

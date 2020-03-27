@@ -14,4 +14,4 @@ type: "course"
 
 ### About Committee
 
-This team has developed and launched a student-led, publicly-available curriculum on COVID-19, which will be updated each Friday. It is accessible here: https://docs.google.com/document/d/13JfRRw1GEIKz4JCde8WcQBCHnu-7nn11P_z0dHov1eA/edit 
+This team is working with hospital leadership to create a framework for involving the medical student workforce in the clinical needs emerging from hospital sites. The focus of this group is helping with innovative policy creation about the medical student workforce re-allocation and placement in this evolving crisis. We will make sure every HMS student is aware of clinically-supportive opportunities as they emerge.
