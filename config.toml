@@ -85,15 +85,15 @@ weight = 4
 name = "In the News"
 URL = "news"
   
-[[menu.main]]
-name = "Resources"
-# URL = "resources"
-weight = 4
+# [[menu.main]]
+# name = "Resources"
+# # URL = "resources"
+# weight = 4
 
-  [[menu.main]]
-  parent = "Resources"
-  name = "Fact sheets"
-  URL = "fact-sheets"
+#   [[menu.main]]
+#   parent = "Resources"
+#   name = "Fact sheets"
+#   URL = "fact-sheets"
   
 [[menu.main]]
 name = "Contact"
