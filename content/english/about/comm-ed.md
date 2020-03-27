@@ -15,4 +15,4 @@ type: "course"
 
 ### About Committee
 
-This team focuses on promoting educational materials, music videos, and infographics for a broader audience (social distancing, etc.), including translating COVID-19 educational material in other languages. Please follow them on [Instagram](https://www.instagram.com/futuremdvscovid/), [Twitter](https://twitter.com/FutureMDvsCOVID), [Facebook](https://www.facebook.com/futureMDvsCOVID/), and [YouTube](https://www.youtube.com/channel/UCNSJiiJCVFbWVLxgJBMAsbg).
+This team focuses on promoting educational materials, music videos, and infographics for a broader audience (social distancing, etc.), including translating COVID-19 educational material in other languages. Please follow us on [Instagram](https://www.instagram.com/futuremdvscovid/), [Twitter](https://twitter.com/FutureMDvsCOVID), [Facebook](https://www.facebook.com/futureMDvsCOVID/), and [YouTube](https://www.youtube.com/channel/UCNSJiiJCVFbWVLxgJBMAsbg).

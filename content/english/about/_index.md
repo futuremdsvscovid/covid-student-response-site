@@ -18,4 +18,10 @@ Currently, there are four overarching committees that are supported by hundreds 
 
 For more information now on how to connect with our efforts and help us broaden them, please contact: hmscovid19studentresponse@gmail.com 
 
-Co-Leaders and Committee Oversight: Shivangi Goel, Kirstin Woody Scott, and Derek Soled
+### Co-Leaders and Committee Oversight:
+
+#### Shivangi Goel
+
+#### Kirstin Woody Scott
+
+#### Derek Soled
