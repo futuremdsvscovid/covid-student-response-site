@@ -102,7 +102,7 @@ hasChildren = true
 
 [[menu.main]]
 weight = 4
-name = "In the News"
+name = "News"
 URL = "news"
   
 # [[menu.main]]
