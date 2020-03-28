@@ -63,7 +63,7 @@ Please use [this](https://urldefense.proofpoint.com/v2/url?u=https-3A__docs.goog
 
 ### Students vs. Pandemics
 
-Students vs. Pandemics is an interdisciplinary group of Harvard grad and undergrad students building community and empowering students to make a positive impact on health and overall wellness during times of crisis. Our three primary goals are to improve transparency and communication, build community, and identify needs and innovate solutions. We share health education material, resources for students, and opportunities to serve our greater community through our resources spreadsheet and Instagram. Please fill out [this form](https://docs.google.com/forms/d/e/1FAIpQLSc9_Hs0zFv-9EBRfH0IhvsamLzPTeAyBy8NflcfV2G17vtz0Q/viewform?usp=sf_link) if you’re interested in joining.
+Students vs. Pandemics is an interdisciplinary group of Harvard grad and undergrad students building community and empowering students to make a positive impact on health and overall wellness during times of crisis. Our three primary goals are to improve transparency and communication, build community, and identify needs and innovate solutions. We share health education material, resources for students, and opportunities to serve our greater community through our [resources spreadsheet](https://docs.google.com/spreadsheets/d/1dTerz_XiSYghoEMn01biDnqqBM_pQIa3S8o-BhEKy-s/edit#gid=531738015) and [Instagram](https://www.instagram.com/studentsvspandemics/). Please fill out [this form](https://docs.google.com/forms/d/e/1FAIpQLSc9_Hs0zFv-9EBRfH0IhvsamLzPTeAyBy8NflcfV2G17vtz0Q/viewform?usp=sf_link) if you’re interested in joining.
 
 For more information, please visit the following links:
 
