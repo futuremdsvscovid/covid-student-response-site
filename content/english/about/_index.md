@@ -16,9 +16,9 @@ This student-led team first gathered together on March 15th to rapidly develop a
 
 Currently, there are four overarching committees that are supported by hundreds of members across the student body. The structure will continue to evolve as the response grows. The Response Team embraces the principles of being adaptive, nimble, and inclusive for all initiatives that will optimize our collective impact as a medical student body.
 
-For more information now on how to connect with our efforts and help us broaden them, please contact: hmscovid19studentresponse@gmail.com 
+For more information now on how to connect with our efforts and help us broaden them, please contact: **hmscovid19studentresponse@gmail.com** 
 
-### Leads and Committee Oversight:
+<u>Response Team Leads:</u>
 
 Shivangi Goel
 
@@ -34,9 +34,9 @@ Derek Soled
 
 ### Activism for Community Support
 
-This team is working on a number of initiatives to support vulnerable populations affected by COVID-19 as well as engaging medical student service and activism that may not be related to direct clinical support. This includes housing policy activism, addressing needs from essential health staff, and liaising with broader student community in Boston and beyond re: how to support essential health staff with needs (child care, grocery shopping, etc.). Learn more about these initiatives here: [Community Activism Initiatives](https://covidstudentresponse.org/campaigns/community-activism/)
+This team is working on a number of initiatives to support vulnerable populations affected by COVID-19 as well as engaging medical student service and activism that may not be related to direct clinical support. This includes housing policy activism, addressing needs from essential health staff, and liaising with broader student community in Boston and beyond re: how to support essential health staff with needs (child care, grocery shopping, etc.). Learn more about these initiatives here: **[Community Activism Initiatives](https://covidstudentresponse.org/campaigns/community-activism/)**
 
-### Leads
+<u>Leads</u>
 
 Nishu Uppal
 
@@ -48,9 +48,9 @@ David Velasquez
 
 ### Education for Broader Community
 
-This team focuses on promoting educational materials, music videos, and infographics for a broader audience (social distancing, etc.), including translating COVID-19 educational material in other languages. Please follow us on [Instagram](https://www.instagram.com/futuremdvscovid/), [Twitter](https://twitter.com/FutureMDvsCOVID), [Facebook](https://www.facebook.com/futureMDvsCOVID/), and [YouTube](https://www.youtube.com/channel/UCNSJiiJCVFbWVLxgJBMAsbg).
+This team focuses on promoting educational materials, music videos, and infographics for a broader audience (social distancing, etc.), including translating COVID-19 educational material in other languages. Please follow us on **[Instagram](https://www.instagram.com/futuremdvscovid/)**, **[Twitter](https://twitter.com/FutureMDvsCOVID)**, **[Facebook](https://www.facebook.com/futureMDvsCOVID/)**, and **[YouTube](https://www.youtube.com/channel/UCNSJiiJCVFbWVLxgJBMAsbg)**.
 
-### Leads
+<u>Leads</u>
 
 Kruti Vora
 
@@ -62,7 +62,7 @@ Nicky Joseph
 
 This team is working with hospital leadership to create a framework for involving the medical student workforce in the clinical needs emerging from hospital sites. The focus of this group is helping with innovative policy creation about the medical student workforce re-allocation and placement in this evolving crisis. We will make sure every HMS student is aware of clinically-supportive opportunities as they emerge.
 
-### Leads
+<u>Leads</u>
 
 Shivangi Goel
 
@@ -72,8 +72,8 @@ Danika Barry
 
 ### Education for Medical Community
 
-This team has developed and launched a student-led, publicly-available curriculum on COVID-19, which will be updated each Friday. It is accessible here: [Curriculum](https://curriculum.covidstudentresponse.org/)
+This team has developed and launched a student-led, publicly-available curriculum on COVID-19, which will be updated each Friday. It is accessible here: **[Curriculum](https://curriculum.covidstudentresponse.org/)**
 
-### Leads
+<u>Leads</u>
 
 Michael Kochis
