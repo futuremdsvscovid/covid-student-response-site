@@ -210,3 +210,7 @@ weight = 1
 home = "Home"
 # copyright
 copyright = "Website copyright &copy; 2020 [Benjamin Levy](https://benlevyx.github.io)"
+
+################################## Goldmark Shortcodes ####################################
+[markup.goldmark.renderer]
+unsafe= true
