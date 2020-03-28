@@ -62,7 +62,7 @@ hasChildren = true
 
   [[menu.main]]
   parent = "Campaigns"
-  name = "Community activism"
+  name = "Community Activism"
   URL = "campaigns/community-activism"
 
   [[menu.main]]
