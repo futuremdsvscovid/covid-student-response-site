@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>In the News on COVID-19 Student Response</title>
+    <title>News on COVID-19 Student Response</title>
     <link>https://covidstudentresponse.org/news/</link>
-    <description>Recent content in In the News on COVID-19 Student Response</description>
+    <description>Recent content in News on COVID-19 Student Response</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Website copyright &amp;copy; 2020 [Benjamin Levy](https://benlevyx.github.io)</copyright>
@@ -11,6 +11,33 @@
     
 	<atom:link href="https://covidstudentresponse.org/news/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Coronavirus 101: What you need to know</title>
+      <link>https://covidstudentresponse.org/news/news-3/</link>
+      <pubDate>Fri, 27 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://covidstudentresponse.org/news/news-3/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Evansville med student at Harvard dusts off Blink-182 hit for COVID-19 awareness</title>
+      <link>https://covidstudentresponse.org/news/news-4/</link>
+      <pubDate>Thu, 26 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://covidstudentresponse.org/news/news-4/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>If Covid-19 will peak in June, teaching hospitals should consider delaying the start of new medical residents</title>
+      <link>https://covidstudentresponse.org/news/news-5/</link>
+      <pubDate>Thu, 26 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://covidstudentresponse.org/news/news-5/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>HMS COVID-19 Student Response Team</title>

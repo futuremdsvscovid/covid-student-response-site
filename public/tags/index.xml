@@ -7,10 +7,37 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Website copyright &amp;copy; 2020 [Benjamin Levy](https://benlevyx.github.io)</copyright>
-    <lastBuildDate>Thu, 26 Mar 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 27 Mar 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://covidstudentresponse.org/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Campaign</title>
+      <link>https://covidstudentresponse.org/tags/campaign/</link>
+      <pubDate>Fri, 27 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://covidstudentresponse.org/tags/campaign/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Community activism</title>
+      <link>https://covidstudentresponse.org/tags/community-activism/</link>
+      <pubDate>Fri, 27 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://covidstudentresponse.org/tags/community-activism/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>PPE</title>
+      <link>https://covidstudentresponse.org/tags/ppe/</link>
+      <pubDate>Fri, 27 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://covidstudentresponse.org/tags/ppe/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Community education</title>

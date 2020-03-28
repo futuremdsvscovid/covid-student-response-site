@@ -186,6 +186,18 @@ home = "Home"
 # copyright
 copyright = "Website copyright &copy; 2020 [Benjamin Levy](https://benlevyx.github.io)"
 
-################################## Goldmark Shortcodes ####################################
+
+################################# Goldmark shortcodes ####################################
 [markup.goldmark.renderer]
 unsafe= true
+
+
+################################### Image processing #####################################
+[imaging]
+# See https://github.com/disintegration/imaging
+# CatmullRom is a sharp bicubic filter which should fit the docs site well with its many screenshots.
+# Note that you can also set this per image processing.
+resampleFilter = "CatmullRom"
+
+# Default JPEG quality setting. Default is 75.
+quality = 75

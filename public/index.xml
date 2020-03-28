@@ -7,63 +7,45 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Website copyright &amp;copy; 2020 [Benjamin Levy](https://benlevyx.github.io)</copyright>
-    <lastBuildDate>Sat, 09 Mar 2030 15:27:17 +0600</lastBuildDate>
+    <lastBuildDate>Fri, 27 Mar 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://covidstudentresponse.org/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Social media and behavior economics conference</title>
-      <link>https://covidstudentresponse.org/event/event-1/</link>
-      <pubDate>Sat, 09 Mar 2030 15:27:17 +0600</pubDate>
+      <title>Coronavirus 101: What you need to know</title>
+      <link>https://covidstudentresponse.org/news/news-3/</link>
+      <pubDate>Fri, 27 Mar 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://covidstudentresponse.org/event/event-1/</guid>
-      <description>About Event Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
+      <guid>https://covidstudentresponse.org/news/news-3/</guid>
+      <description></description>
     </item>
     
     <item>
-      <title>Social media and behavior economics conference</title>
-      <link>https://covidstudentresponse.org/event/event-2/</link>
-      <pubDate>Sat, 09 Mar 2030 15:27:17 +0600</pubDate>
+      <title>Not All Heroes Wear Masks</title>
+      <link>https://covidstudentresponse.org/blog/blog-post-2/</link>
+      <pubDate>Fri, 27 Mar 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://covidstudentresponse.org/event/event-2/</guid>
-      <description>About Event Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
+      <guid>https://covidstudentresponse.org/blog/blog-post-2/</guid>
+      <description>HEALTHCARE WORKERS NEED OUR HELP. Hospitals are in dire need of supplies to protect those fighting at the front lines.</description>
     </item>
     
     <item>
-      <title>Social media and behavior economics conference</title>
-      <link>https://covidstudentresponse.org/event/event-3/</link>
-      <pubDate>Sat, 09 Mar 2030 15:27:17 +0600</pubDate>
+      <title>Evansville med student at Harvard dusts off Blink-182 hit for COVID-19 awareness</title>
+      <link>https://covidstudentresponse.org/news/news-4/</link>
+      <pubDate>Thu, 26 Mar 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://covidstudentresponse.org/event/event-3/</guid>
-      <description>About Event Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
+      <guid>https://covidstudentresponse.org/news/news-4/</guid>
+      <description></description>
     </item>
     
     <item>
-      <title>Social media and behavior economics conference</title>
-      <link>https://covidstudentresponse.org/event/event-4/</link>
-      <pubDate>Sat, 09 Mar 2030 15:27:17 +0600</pubDate>
+      <title>If Covid-19 will peak in June, teaching hospitals should consider delaying the start of new medical residents</title>
+      <link>https://covidstudentresponse.org/news/news-5/</link>
+      <pubDate>Thu, 26 Mar 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://covidstudentresponse.org/event/event-4/</guid>
-      <description>About Event Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
-    </item>
-    
-    <item>
-      <title>Social media and behavior economics conference</title>
-      <link>https://covidstudentresponse.org/event/event-5/</link>
-      <pubDate>Sat, 09 Mar 2030 15:27:17 +0600</pubDate>
-      
-      <guid>https://covidstudentresponse.org/event/event-5/</guid>
-      <description>About Event Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
-    </item>
-    
-    <item>
-      <title>Social media and behavior economics conference</title>
-      <link>https://covidstudentresponse.org/event/event-6/</link>
-      <pubDate>Sat, 09 Mar 2030 15:27:17 +0600</pubDate>
-      
-      <guid>https://covidstudentresponse.org/event/event-6/</guid>
-      <description>About Event Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
+      <guid>https://covidstudentresponse.org/news/news-5/</guid>
+      <description></description>
     </item>
     
     <item>
@@ -94,6 +76,15 @@
     </item>
     
     <item>
+      <title>Activism for Community Support</title>
+      <link>https://covidstudentresponse.org/about/comm-activism/</link>
+      <pubDate>Sat, 06 Jul 2019 15:27:17 +0600</pubDate>
+      
+      <guid>https://covidstudentresponse.org/about/comm-activism/</guid>
+      <description>This team is working on a number of initiatives to support vulnerable populations affected by COVID-19 as well as engaging medical student service and activism that may not be related to direct clinical support.</description>
+    </item>
+    
+    <item>
       <title>Activism for Medical Support</title>
       <link>https://covidstudentresponse.org/about/med-activism/</link>
       <pubDate>Sat, 06 Jul 2019 15:27:17 +0600</pubDate>
@@ -103,12 +94,12 @@
     </item>
     
     <item>
-      <title>Activism for Non-Medical Support</title>
-      <link>https://covidstudentresponse.org/about/comm-activism/</link>
+      <title>Community Activism Initiatives</title>
+      <link>https://covidstudentresponse.org/campaigns/community-activism/</link>
       <pubDate>Sat, 06 Jul 2019 15:27:17 +0600</pubDate>
       
-      <guid>https://covidstudentresponse.org/about/comm-activism/</guid>
-      <description>Non-clinical support Student in Boston? Interested in reducing the effects of COVID-19 and flattening the curve?</description>
+      <guid>https://covidstudentresponse.org/campaigns/community-activism/</guid>
+      <description>Non-Clinical Support for Healthcare Workers Student in Boston? Interested in reducing the effects of COVID-19 and flattening the curve?</description>
     </item>
     
     <item>
@@ -130,210 +121,21 @@
     </item>
     
     <item>
-      <title>Geography</title>
-      <link>https://covidstudentresponse.org/research/research-1/</link>
+      <title>PPE Shortage Initiative</title>
+      <link>https://covidstudentresponse.org/campaigns/ppe/</link>
       <pubDate>Sat, 06 Jul 2019 15:27:17 +0600</pubDate>
       
-      <guid>https://covidstudentresponse.org/research/research-1/</guid>
-      <description>About Research Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
+      <guid>https://covidstudentresponse.org/campaigns/ppe/</guid>
+      <description>HMS PPE Shortage Initiative The shortage of personal protective equipment (PPE) is already affecting our medical workers ability to protect themselves, our patients, and our public.</description>
     </item>
     
     <item>
-      <title>Geography</title>
-      <link>https://covidstudentresponse.org/research/research-2/</link>
-      <pubDate>Sat, 06 Jul 2019 15:27:17 +0600</pubDate>
-      
-      <guid>https://covidstudentresponse.org/research/research-2/</guid>
-      <description>About Research Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
-    </item>
-    
-    <item>
-      <title>Geography</title>
-      <link>https://covidstudentresponse.org/research/research-3/</link>
-      <pubDate>Sat, 06 Jul 2019 15:27:17 +0600</pubDate>
-      
-      <guid>https://covidstudentresponse.org/research/research-3/</guid>
-      <description>About Research Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
-    </item>
-    
-    <item>
-      <title>Geography</title>
-      <link>https://covidstudentresponse.org/research/research-4/</link>
-      <pubDate>Sat, 06 Jul 2019 15:27:17 +0600</pubDate>
-      
-      <guid>https://covidstudentresponse.org/research/research-4/</guid>
-      <description>About Research Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
-    </item>
-    
-    <item>
-      <title>Geography</title>
-      <link>https://covidstudentresponse.org/research/research-5/</link>
-      <pubDate>Sat, 06 Jul 2019 15:27:17 +0600</pubDate>
-      
-      <guid>https://covidstudentresponse.org/research/research-5/</guid>
-      <description>About Research Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
-    </item>
-    
-    <item>
-      <title>Geography</title>
-      <link>https://covidstudentresponse.org/research/research-6/</link>
-      <pubDate>Sat, 06 Jul 2019 15:27:17 +0600</pubDate>
-      
-      <guid>https://covidstudentresponse.org/research/research-6/</guid>
-      <description>About Research Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
-    </item>
-    
-    <item>
-      <title>Teaching Materials and Testing Methods</title>
-      <link>https://covidstudentresponse.org/notice/notice-1/</link>
-      <pubDate>Sat, 06 Jul 2019 15:27:17 +0600</pubDate>
-      
-      <guid>https://covidstudentresponse.org/notice/notice-1/</guid>
-      <description>About Notice Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
-    </item>
-    
-    <item>
-      <title>Teaching Materials and Testing Methods</title>
-      <link>https://covidstudentresponse.org/notice/notice-2/</link>
-      <pubDate>Sat, 06 Jul 2019 15:27:17 +0600</pubDate>
-      
-      <guid>https://covidstudentresponse.org/notice/notice-2/</guid>
-      <description>About Notice Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
-    </item>
-    
-    <item>
-      <title>Teaching Materials and Testing Methods</title>
-      <link>https://covidstudentresponse.org/notice/notice-3/</link>
-      <pubDate>Sat, 06 Jul 2019 15:27:17 +0600</pubDate>
-      
-      <guid>https://covidstudentresponse.org/notice/notice-3/</guid>
-      <description>About Notice Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
-    </item>
-    
-    <item>
-      <title>Teaching Materials and Testing Methods</title>
-      <link>https://covidstudentresponse.org/notice/notice-4/</link>
-      <pubDate>Sat, 06 Jul 2019 15:27:17 +0600</pubDate>
-      
-      <guid>https://covidstudentresponse.org/notice/notice-4/</guid>
-      <description>About Notice Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
-    </item>
-    
-    <item>
-      <title>Teaching Materials and Testing Methods</title>
-      <link>https://covidstudentresponse.org/notice/notice-5/</link>
-      <pubDate>Sat, 06 Jul 2019 15:27:17 +0600</pubDate>
-      
-      <guid>https://covidstudentresponse.org/notice/notice-5/</guid>
-      <description>About Notice Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
-    </item>
-    
-    <item>
-      <title>Teaching Materials and Testing Methods</title>
-      <link>https://covidstudentresponse.org/notice/notice-6/</link>
-      <pubDate>Sat, 06 Jul 2019 15:27:17 +0600</pubDate>
-      
-      <guid>https://covidstudentresponse.org/notice/notice-6/</guid>
-      <description>About Notice Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
-    </item>
-    
-    <item>
-      <title>Alex Rook</title>
-      <link>https://covidstudentresponse.org/teacher/alex-rook/</link>
+      <title>Health Literacy Project</title>
+      <link>https://covidstudentresponse.org/campaigns/health-literacy-project/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://covidstudentresponse.org/teacher/alex-rook/</guid>
-      <description>About Me Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
-    </item>
-    
-    <item>
-      <title>CHEMICAL ENGINEERING</title>
-      <link>https://covidstudentresponse.org/scholarship/scholarship-1/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://covidstudentresponse.org/scholarship/scholarship-1/</guid>
-      <description> institutes Smart-affiliated research Digital Access to Scholarship Smart Catalyst Smart Library Portal Smart research programs  </description>
-    </item>
-    
-    <item>
-      <title>CHEMICAL ENGINEERING</title>
-      <link>https://covidstudentresponse.org/scholarship/scholarship-2/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://covidstudentresponse.org/scholarship/scholarship-2/</guid>
-      <description> institutes Smart-affiliated research Digital Access to Scholarship Smart Catalyst Smart Library Portal Smart research programs  </description>
-    </item>
-    
-    <item>
-      <title>CHEMICAL ENGINEERING</title>
-      <link>https://covidstudentresponse.org/scholarship/scholarship-3/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://covidstudentresponse.org/scholarship/scholarship-3/</guid>
-      <description> institutes Smart-affiliated research Digital Access to Scholarship Smart Catalyst Smart Library Portal Smart research programs  </description>
-    </item>
-    
-    <item>
-      <title>Clark Malik</title>
-      <link>https://covidstudentresponse.org/teacher/clark-malik/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://covidstudentresponse.org/teacher/clark-malik/</guid>
-      <description>About Me Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
-    </item>
-    
-    <item>
-      <title>Devid Luis</title>
-      <link>https://covidstudentresponse.org/teacher/devid-luis/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://covidstudentresponse.org/teacher/devid-luis/</guid>
-      <description>About Me Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
-    </item>
-    
-    <item>
-      <title>Duis Rio</title>
-      <link>https://covidstudentresponse.org/teacher/duis-rio/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://covidstudentresponse.org/teacher/duis-rio/</guid>
-      <description>About Me Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
-    </item>
-    
-    <item>
-      <title>Jacke Mastio</title>
-      <link>https://covidstudentresponse.org/teacher/jacke-mastio/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://covidstudentresponse.org/teacher/jacke-mastio/</guid>
-      <description>About Me Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
-    </item>
-    
-    <item>
-      <title>John doe</title>
-      <link>https://covidstudentresponse.org/author/john-doe/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://covidstudentresponse.org/author/john-doe/</guid>
-      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin sit amet vulputate augue.</description>
-    </item>
-    
-    <item>
-      <title>Mark Dinn</title>
-      <link>https://covidstudentresponse.org/author/mark-dinn/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://covidstudentresponse.org/author/mark-dinn/</guid>
-      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin sit amet vulputate augue.</description>
-    </item>
-    
-    <item>
-      <title>Zim Cook</title>
-      <link>https://covidstudentresponse.org/teacher/zim-cook/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://covidstudentresponse.org/teacher/zim-cook/</guid>
-      <description>About Me Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
+      <guid>https://covidstudentresponse.org/campaigns/health-literacy-project/</guid>
+      <description>The COVID-19 Health Literacy Project was started by Pooja Chandrashekar, a first-year medical student at Harvard Medical School, and quickly expanded into a national coalition of over 150 medical students representing over 35 institutions and 34 languages.</description>
     </item>
     
   </channel>

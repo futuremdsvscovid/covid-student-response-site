@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Website copyright &amp;copy; 2020 [Benjamin Levy](https://benlevyx.github.io)</copyright>
-    <lastBuildDate>Thu, 26 Mar 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 27 Mar 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://covidstudentresponse.org/blog/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Not All Heroes Wear Masks</title>
+      <link>https://covidstudentresponse.org/blog/blog-post-2/</link>
+      <pubDate>Fri, 27 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://covidstudentresponse.org/blog/blog-post-2/</guid>
+      <description>HEALTHCARE WORKERS NEED OUR HELP. Hospitals are in dire need of supplies to protect those fighting at the front lines.</description>
+    </item>
     
     <item>
       <title>Public health advice in musical form</title>

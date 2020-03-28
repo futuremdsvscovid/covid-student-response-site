@@ -3,48 +3,53 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://covidstudentresponse.org/</loc>
-    <lastmod>2030-03-09T15:27:17+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://covidstudentresponse.org/event/</loc>
-    <lastmod>2030-03-09T15:27:17+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://covidstudentresponse.org/event/event-1/</loc>
-    <lastmod>2030-03-09T15:27:17+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://covidstudentresponse.org/event/event-2/</loc>
-    <lastmod>2030-03-09T15:27:17+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://covidstudentresponse.org/event/event-3/</loc>
-    <lastmod>2030-03-09T15:27:17+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://covidstudentresponse.org/event/event-4/</loc>
-    <lastmod>2030-03-09T15:27:17+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://covidstudentresponse.org/event/event-5/</loc>
-    <lastmod>2030-03-09T15:27:17+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://covidstudentresponse.org/event/event-6/</loc>
-    <lastmod>2030-03-09T15:27:17+06:00</lastmod>
+    <loc>https://covidstudentresponse.org/tags/campaign/</loc>
+    <lastmod>2020-03-27T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://covidstudentresponse.org/categories/</loc>
-    <lastmod>2020-03-26T00:00:00+00:00</lastmod>
+    <lastmod>2020-03-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://covidstudentresponse.org/tags/community-activism/</loc>
+    <lastmod>2020-03-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://covidstudentresponse.org/news/news-3/</loc>
+    <lastmod>2020-03-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://covidstudentresponse.org/</loc>
+    <lastmod>2020-03-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://covidstudentresponse.org/blog/</loc>
+    <lastmod>2020-03-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://covidstudentresponse.org/blog/blog-post-2/</loc>
+    <lastmod>2020-03-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://covidstudentresponse.org/tags/ppe/</loc>
+    <lastmod>2020-03-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://covidstudentresponse.org/tags/</loc>
+    <lastmod>2020-03-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://covidstudentresponse.org/categories/video/</loc>
+    <lastmod>2020-03-27T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -53,7 +58,12 @@
   </url>
   
   <url>
-    <loc>https://covidstudentresponse.org/blog/</loc>
+    <loc>https://covidstudentresponse.org/news/news-4/</loc>
+    <lastmod>2020-03-26T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://covidstudentresponse.org/news/news-5/</loc>
     <lastmod>2020-03-26T00:00:00+00:00</lastmod>
   </url>
   
@@ -63,17 +73,7 @@
   </url>
   
   <url>
-    <loc>https://covidstudentresponse.org/tags/</loc>
-    <lastmod>2020-03-26T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://covidstudentresponse.org/tags/video/</loc>
-    <lastmod>2020-03-26T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://covidstudentresponse.org/categories/video/</loc>
     <lastmod>2020-03-26T00:00:00+00:00</lastmod>
   </url>
   
@@ -88,7 +88,18 @@
   </url>
   
   <url>
+    <loc>https://covidstudentresponse.org/campaigns/</loc>
+    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://covidstudentresponse.org/about/</loc>
+    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://covidstudentresponse.org/about/comm-activism/</loc>
     <lastmod>2019-07-06T15:27:17+06:00</lastmod>
   </url>
   
@@ -98,7 +109,7 @@
   </url>
   
   <url>
-    <loc>https://covidstudentresponse.org/about/comm-activism/</loc>
+    <loc>https://covidstudentresponse.org/campaigns/community-activism/</loc>
     <lastmod>2019-07-06T15:27:17+06:00</lastmod>
   </url>
   
@@ -113,72 +124,7 @@
   </url>
   
   <url>
-    <loc>https://covidstudentresponse.org/research/research-1/</loc>
-    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://covidstudentresponse.org/research/research-2/</loc>
-    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://covidstudentresponse.org/research/research-3/</loc>
-    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://covidstudentresponse.org/research/research-4/</loc>
-    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://covidstudentresponse.org/research/research-5/</loc>
-    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://covidstudentresponse.org/research/research-6/</loc>
-    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://covidstudentresponse.org/notice/</loc>
-    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://covidstudentresponse.org/research/</loc>
-    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://covidstudentresponse.org/notice/notice-1/</loc>
-    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://covidstudentresponse.org/notice/notice-2/</loc>
-    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://covidstudentresponse.org/notice/notice-3/</loc>
-    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://covidstudentresponse.org/notice/notice-4/</loc>
-    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://covidstudentresponse.org/notice/notice-5/</loc>
-    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://covidstudentresponse.org/notice/notice-6/</loc>
+    <loc>https://covidstudentresponse.org/campaigns/ppe/</loc>
     <lastmod>2019-07-06T15:27:17+06:00</lastmod>
   </url>
   
@@ -192,63 +138,7 @@
   </url>
   
   <url>
-    <loc>https://covidstudentresponse.org/teacher/alex-rook/</loc>
-  </url>
-  
-  <url>
-    <loc>https://covidstudentresponse.org/author/</loc>
-  </url>
-  
-  <url>
-    <loc>https://covidstudentresponse.org/scholarship/scholarship-1/</loc>
-  </url>
-  
-  <url>
-    <loc>https://covidstudentresponse.org/scholarship/scholarship-2/</loc>
-  </url>
-  
-  <url>
-    <loc>https://covidstudentresponse.org/scholarship/scholarship-3/</loc>
-  </url>
-  
-  <url>
-    <loc>https://covidstudentresponse.org/teacher/clark-malik/</loc>
-  </url>
-  
-  <url>
-    <loc>https://covidstudentresponse.org/teacher/devid-luis/</loc>
-  </url>
-  
-  <url>
-    <loc>https://covidstudentresponse.org/teacher/duis-rio/</loc>
-  </url>
-  
-  <url>
-    <loc>https://covidstudentresponse.org/teacher/jacke-mastio/</loc>
-  </url>
-  
-  <url>
-    <loc>https://covidstudentresponse.org/author/john-doe/</loc>
-  </url>
-  
-  <url>
-    <loc>https://covidstudentresponse.org/author/mark-dinn/</loc>
-  </url>
-  
-  <url>
-    <loc>https://covidstudentresponse.org/course/</loc>
-  </url>
-  
-  <url>
-    <loc>https://covidstudentresponse.org/teacher/</loc>
-  </url>
-  
-  <url>
-    <loc>https://covidstudentresponse.org/scholarship/</loc>
-  </url>
-  
-  <url>
-    <loc>https://covidstudentresponse.org/teacher/zim-cook/</loc>
+    <loc>https://covidstudentresponse.org/campaigns/health-literacy-project/</loc>
   </url>
   
 </urlset>
