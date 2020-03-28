@@ -23,39 +23,17 @@
   </div>
   {{ end }}
   {{ end }}
-  <!-- footer content -->
-  <div class="footer bg-footer section border-bottom text-white">
-    <div class="container">
-      <div class="row">
-        <div class="col-md-4">
-          <!-- logo -->
-          <a class="logo-footer" href="{{ .Site.BaseURL | relLangURL }}"><img class="img-fluid mb-4" src="{{ .Site.Params.logo | absURL }}" alt="{{ .Site.Title }}"></a>
-          <ul class="list-unstyled">
-            <li class="">{{ .Site.Params.address | markdownify }}</li>
-            <li class="">{{ .Site.Params.email | markdownify }}</li>
-            <li class="">{{ .Site.Params.mobile | markdownify }}</li>
-          </ul>
-        </div>
-        <!-- support -->
-        <div class="col-md-8">
-          <h4 class="text-white mb-5 text-uppercase">Committees</h4>
-          <ul class="list-unstyled list-group list-group-horizontal">
-            {{ range first 5 (where .Site.RegularPages "Type" "course")}}
-            <li class="mb-3" style="padding-right:12px;"><a class="text-white" href="{{ .Permalink }}">{{ .Title }}</a></li>
-            {{ end }}
-          </ul>
-        </div>
-      </div>
-    </div>
-  </div>
   <!-- copyright -->
   <div class="copyright py-4 bg-footer">
     <div class="container">
       <div class="row">
-        <div class="col-sm-7 text-sm-left text-center">
+        <div class="col-sm-4 text-sm-left text-center">
           <p class="mb-0 text-white">{{ .Site.Params.copyright | markdownify }}</p>
         </div>
-        <div class="col-sm-5 text-sm-right text-center">
+        <div class="col-sm-4 text-sm-center text-center">
+          <p class="mb-0 text-white">{{ .Site.Params.email | markdownify }}</p>
+        </div>
+        <div class="col-sm-4 text-sm-right text-center">
           <ul class="list-inline">
             {{ range .Site.Params.social }}
             <li class="list-inline-item"><a class="d-inline-block p-2" href="{{ .link | safeURL }}"><i class="{{ .icon }} text-primary"></i></a></li>
