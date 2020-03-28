@@ -100,6 +100,11 @@ hasChildren = true
   name = "Social Media"
   URL = "blog"
 
+  [[menu.main]]
+  parent = "Campaigns"
+  name = "Health Literacy Project"
+  URL = "campaigns/health-literacy-project"
+
 [[menu.main]]
 weight = 4
 name = "News"
