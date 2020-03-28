@@ -14,21 +14,30 @@ type: "research"
 
 ## HMS PPE Shortage Initiative 
 
-{{% center %}}
+{{% center-block %}}
 
 **The shortage of personal protective equipment (PPE) is already affecting our medical workers ability to protect themselves, our patients, and our public.**
 
+{{% /center-block %}}
+
+{{% center-block-left-align %}}
+
 **The HMS PPE Shortage Initiative has been working to:**
-Reach out to local businesses and organizations to collect PPE **donations**
-Connect PPE **vendors** to local hospitals
-Coordinate efforts with individuals and companies working on mask **creation and innovation**
-Work to advocate for PPE **legislation** 
-**Spread the word** regarding the PPE shortage! 
+
+* Reach out to local businesses and organizations to collect PPE **donations**
+* Connect PPE **vendors** to local hospitals
+* Coordinate efforts with individuals and companies working on mask **creation and innovation**
+* Advocate for PPE **legislation** 
+* **Spread the word** regarding the PPE shortage! 
+
+{{% /center-block-left-align %}}
+
+{{% center-block %}}
 
 **All while collaborating with the numerous ongoing PPE intiaitives and organizations including:**
 **[GetusPPE.org](https://www.getusppe.org), [DonatePPE.org](https://www.donateppe.org), [MGB COVID Innovation Center](https://covidinnovation.partners.org/), [Boston Mask Initaitive](mailto:bostonareamaskinitiative@gmail.com), and many more.**
 
-{{% /center %}}
+{{% /center-block %}}
 
 ### We need your help!
 
