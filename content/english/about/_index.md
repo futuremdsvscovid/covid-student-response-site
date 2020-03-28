@@ -20,11 +20,13 @@ For more information now on how to connect with our efforts and help us broaden 
 
 ### Leads and Committee Oversight:
 
-#### Shivangi Goel
+Shivangi Goel
 
-#### Kirstin Woody Scott
+Kirstin Woody Scott
 
-#### Derek Soled
+Derek Soled
+
+<br>
 
 ## Committees
 
@@ -36,11 +38,11 @@ This team is working on a number of initiatives to support vulnerable population
 
 ### Leads
 
-#### Nishu Uppal
+Nishu Uppal
 
-#### Parsa Erfani
+Parsa Erfani
 
-#### David Velasquez
+David Velasquez
 
 ---
 
@@ -50,9 +52,9 @@ This team focuses on promoting educational materials, music videos, and infograp
 
 ### Leads
 
-####Kruti Vora
+Kruti Vora
 
-####Nicky Joseph
+Nicky Joseph
 
 ---
 
@@ -62,9 +64,9 @@ This team is working with hospital leadership to create a framework for involvin
 
 ### Leads
 
-#### Shivangi Goel
+Shivangi Goel
 
-#### Danika Barry
+Danika Barry
 
 ---
 
@@ -74,4 +76,4 @@ This team has developed and launched a student-led, publicly-available curriculu
 
 ### Leads
 
-##### Michael Kochis
+Michael Kochis

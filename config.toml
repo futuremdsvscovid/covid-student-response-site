@@ -48,32 +48,7 @@ link = "plugins/google-map/gmap.js"
 name = "About"
 # URL = "about"
 weight = 1
-hasChildren = true
-
-  [[menu.main]]
-  parent = "About"
-  name = "About us"
-  URL = "about"
-
-  [[menu.main]]
-  parent = "About"
-  name = "Community Activism"
-  URL = "about/comm-activism"
-
-  [[menu.main]]
-  parent = "About"
-  name = "Medical Activism"
-  URL = "about/med-activism"
-
-  [[menu.main]]
-  parent = "About"
-  name = "Community Education"
-  URL = "about/comm-ed"
-
-  [[menu.main]]
-  parent = "About"
-  name = "Medical Education"
-  URL = "about/med-ed"
+URL = "about"
 
 [[menu.main]]
 weight = 3
