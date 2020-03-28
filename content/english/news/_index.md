@@ -1,5 +1,5 @@
 ---
-title: "In the News"
+title: "News"
 draft: false
 # page title background image
 bg_image: "images/backgrounds/page-title.jpg"
