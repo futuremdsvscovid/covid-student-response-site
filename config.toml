@@ -68,18 +68,8 @@ hasChildren = true
   [[menu.main]]
   parent = "Campaigns"
   name = "PPE"
-  URL = "campaigns/ppe"
   hasChildren = true
-
-    [[menu.main]]
-    parent = "PPE"
-    name = "Shortage Initiative"
-    URL = "campaigns/ppe"
-
-    [[menu.main]]
-    parent = "PPE"
-    name = "Mask Making"
-    URL = "campaigns/making-mask"
+  URL = "campaigns/ppe"
 
   [[menu.main]]
   parent = "Campaigns"
