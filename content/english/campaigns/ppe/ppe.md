@@ -9,7 +9,7 @@ description : ""
 # Research image
 image: "images/campaigns/mask-box.jpg"
 # type
-type: "research"
+type: "campaigns"
 ---
 
 ## HMS PPE Shortage Initiative 

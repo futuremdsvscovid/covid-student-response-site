@@ -9,7 +9,7 @@ description : ""
 # Research image
 image: "images/campaigns/covid-map.jpg"
 # type
-type: "research"
+type: "campaigns"
 ---
 
 ### Non-Clinical Support for Healthcare Workers

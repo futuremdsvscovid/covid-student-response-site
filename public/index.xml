@@ -7,10 +7,28 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Website copyright &amp;copy; 2020 [Benjamin Levy](https://benlevyx.github.io)</copyright>
-    <lastBuildDate>Fri, 27 Mar 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 01 Apr 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://covidstudentresponse.org/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>DIY Mask Manual</title>
+      <link>https://covidstudentresponse.org/campaigns/ppe/mask-making/</link>
+      <pubDate>Wed, 01 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://covidstudentresponse.org/campaigns/ppe/mask-making/</guid>
+      <description>Due to the COVID-19 pandemic, our loved ones, public-facing workers and healthcare professionals are at risk of contracting coronavirus.</description>
+    </item>
+    
+    <item>
+      <title>New effort aims to provide COVID-19 resources to non-English speakers in the U.S.</title>
+      <link>https://covidstudentresponse.org/news/news-6/</link>
+      <pubDate>Wed, 01 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://covidstudentresponse.org/news/news-6/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Coronavirus 101: What you need to know</title>
@@ -122,10 +140,10 @@
     
     <item>
       <title>PPE Shortage Initiative</title>
-      <link>https://covidstudentresponse.org/campaigns/ppe/</link>
+      <link>https://covidstudentresponse.org/campaigns/ppe/ppe/</link>
       <pubDate>Sat, 06 Jul 2019 15:27:17 +0600</pubDate>
       
-      <guid>https://covidstudentresponse.org/campaigns/ppe/</guid>
+      <guid>https://covidstudentresponse.org/campaigns/ppe/ppe/</guid>
       <description>HMS PPE Shortage Initiative The shortage of personal protective equipment (PPE) is already affecting our medical workers ability to protect themselves, our patients, and our public.</description>
     </item>
     

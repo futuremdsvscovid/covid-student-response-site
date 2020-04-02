@@ -53,7 +53,7 @@ URL = "about"
 [[menu.main]]
 weight = 3
 name = "Curriculum"
-URL = "https://futuremdvscovid.gitbook.io/covid19-curriculum/"
+URL = "https://curriculum.covidstudentresponse.org/"
 
 [[menu.main]]
 weight = 4
@@ -67,8 +67,19 @@ hasChildren = true
 
   [[menu.main]]
   parent = "Campaigns"
-  name = "PPE Shortage Initiative"
+  name = "PPE"
   URL = "campaigns/ppe"
+  hasChildren = true
+
+    [[menu.main]]
+    parent = "PPE"
+    name = "Shortage Initiative"
+    URL = "campaigns/ppe"
+
+    [[menu.main]]
+    parent = "PPE"
+    name = "Mask Making"
+    URL = "campaigns/making-mask"
 
   [[menu.main]]
   parent = "Campaigns"
