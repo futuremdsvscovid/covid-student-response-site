@@ -19,3 +19,5 @@ Due to the COVID-19 pandemic, our loved ones, public-facing workers and healthca
 {{% center-block %}}
 <a href="/files/mask-making/mask-making-guide.pdf" class="btn btn-primary btn-sm" style="text-decoration:none;" target="_blank">Find the guide here</a>
 {{% center-block %}}
+
+**For more information, please contact Casey Orozco-Poore:** Casey_Poore@hms.harvard.edu
