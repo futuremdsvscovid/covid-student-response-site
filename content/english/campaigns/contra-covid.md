@@ -6,6 +6,7 @@ draft: false
 description : ""
 # Research image
 image: "images/campaigns/contra-covid.jpg"
+bg_image: "images/campaigns/contra-covid.jpg"
 # type
 type: "campaigns"
 ---
