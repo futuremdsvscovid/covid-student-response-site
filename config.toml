@@ -81,6 +81,11 @@ hasChildren = true
   name = "Health Literacy Project"
   URL = "campaigns/health-literacy-project"
 
+  [[menu.main]]
+  parent = "Campaigns"
+  name = "Contra COVID"
+  URL = "campaigns/contra-covid"
+
 [[menu.main]]
 weight = 4
 name = "News"
