@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Website copyright &amp;copy; 2020 [Benjamin Levy](https://benlevyx.github.io)</copyright>
-    <lastBuildDate>Wed, 01 Apr 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 02 Apr 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://covidstudentresponse.org/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Infographic Gallery</title>
+      <link>https://covidstudentresponse.org/campaigns/gallery/</link>
+      <pubDate>Thu, 02 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://covidstudentresponse.org/campaigns/gallery/</guid>
+      <description>Page under construction.</description>
+    </item>
     
     <item>
       <title>DIY Mask Manual</title>
@@ -18,7 +27,7 @@
       <pubDate>Wed, 01 Apr 2020 00:00:00 +0000</pubDate>
       
       <guid>https://covidstudentresponse.org/campaigns/ppe/mask-making/</guid>
-      <description>Due to the COVID-19 pandemic, our loved ones, public-facing workers and healthcare professionals are at risk of contracting coronavirus.</description>
+      <description>Due to the COVID-19 pandemic, our loved ones, public-facing workers and healthcare professionals are at risk of contracting COVID-19.</description>
     </item>
     
     <item>
