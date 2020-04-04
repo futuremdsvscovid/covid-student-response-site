@@ -23,4 +23,10 @@ evidence-based mask-making tutorial. By taking responsibility for our own bodies
 <a href="/files/mask-making/mask-making-guide.pdf" class="btn btn-primary btn-sm" style="text-decoration:none;" target="_blank">Find the guide here</a>
 {{% center-block %}}
 
+Featuring mask designs requested by hospitals nationally and featured in:
+
+{{< figure src="/images/logos/cnbc-logo.jpg" link="https://www.cnbc.com/2020/04/02/make-your-own-face-mask-during-coronavirus-pandemic-expert-approved-guide-on-how.html" target="_blank" width="30%" >}}
+{{< figure src="/images/logos/npr-logo.jpg" link="https://www.npr.org/sections/goatsandsoda/2020/04/03/826996154/coronavirus-faqs-is-a-homemade-mask-effective-and-whats-the-best-way-to-wear-one" target="_blank" width="30%" >}}
+{{< figure src="/images/logos/nytimes-logo.jpg" link="https://www.nytimes.com/2020/03/31/opinion/coronavirus-n95-mask.html" target="_blank" width="30%" >}}
+
 **For more information, please contact Casey Orozco-Poore:** Casey_Poore@hms.harvard.edu
