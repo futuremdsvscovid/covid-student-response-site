@@ -1,4 +1,4 @@
-b---
+---
 title: "Public health advice in musical form"
 date: 2020-03-26
 draft: false
@@ -12,7 +12,7 @@ image: "images/blog/video-post.png"
 author: "Future MDs vs. COVID-19"
 # taxonomy
 categories: ["Video"]
-tags: ["Community education", "Video"]
+tags: ["community education", "video"]
 # type
 type: "post"
 ---
