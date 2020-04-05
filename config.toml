@@ -71,7 +71,7 @@ hasChildren = true
   [[menu.main]]
   parent = "Campaigns"
   name = "@FutureMDvsCOVID"
-  URL = "blog"
+  URL = "campaigns/social-media"
 
   [[menu.main]]
   parent = "Campaigns"

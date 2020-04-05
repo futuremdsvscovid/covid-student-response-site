@@ -1,0 +1,25 @@
+{{ define "main" }}
+
+<!-- social media -->
+<section class="section">
+    <div class="container">
+<!--        <div class="row"></div>-->
+<!--          <div class="col mb-3" width="100%" style="text-align: center;">-->
+<!--            <a href="#" class="btn btn-primary-outline" style="text-decoration:none;">Click here to see a gallery of infographics</a>-->
+<!--          </div>-->
+<!--        <hr/>-->
+        <!-- post type list -->
+        <div class="row justify-content-center">
+            <!-- course item -->
+            {{ range .Data.Pages }}
+            <div class="col-lg-4 col-sm-6 mb-5">
+                {{ .Render "research" }}
+            </div>
+            {{ end }}
+        </div>
+        <!-- /course list -->
+    </div>
+</section>
+<!-- /courses -->
+
+{{ end }}
