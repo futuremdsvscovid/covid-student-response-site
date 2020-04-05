@@ -25,6 +25,7 @@ link = "plugins/animate/animate.css"
 link = "plugins/venobox/venobox.css"
 [[params.plugins.css]]
 link = "plugins/themify-icons/themify-icons.css"
+# Add photoswipe here?
 
 # JS Plugins
 [[params.plugins.js]]
@@ -39,6 +40,7 @@ link = "plugins/venobox/venobox.min.js"
 link = "plugins/filterizr/jquery.filterizr.min.js"
 [[params.plugins.js]]
 link = "plugins/google-map/gmap.js"
+# Add photoswipe here?
 
 
 ############################## navigation ###############################
@@ -46,18 +48,13 @@ link = "plugins/google-map/gmap.js"
 # main menu
 [[menu.main]]
 name = "About"
-# URL = "about"
 weight = 1
 URL = "about"
 
 [[menu.main]]
-weight = 3
-name = "Curriculum"
-URL = "https://curriculum.covidstudentresponse.org/"
-
-[[menu.main]]
-weight = 4
+weight = 2
 name = "Campaigns"
+URL = "campaigns"
 hasChildren = true
 
   [[menu.main]]
@@ -85,21 +82,27 @@ hasChildren = true
   parent = "Campaigns"
   name = "Contra COVID"
   URL = "campaigns/contra-covid"
+  
+ [[menu.main]]
+ name = "Resources"
+ URL = "resources"
+ weight = 3
+ hasChildren = true
+
+   [[menu.main]]
+   parent = "Resources"
+   name = "Medical Curriculum"
+   URL = "https://curriculum.covidstudentresponse.org/"
+
+   [[menu.main]]
+   parent = "Resources"
+   name = "DIY Mask Making"
+   URL = "resources/mask-making"
 
 [[menu.main]]
 weight = 4
 name = "News"
 URL = "news"
-  
-# [[menu.main]]
-# name = "Resources"
-# # URL = "resources"
-# weight = 4
-
-#   [[menu.main]]
-#   parent = "Resources"
-#   name = "Fact sheets"
-#   URL = "fact-sheets"
   
 [[menu.main]]
 name = "Contact"
@@ -190,7 +193,7 @@ contentDir = "content/english"
 weight = 1
 home = "Home"
 # copyright
-copyright = "Website copyright &copy; 2020 [Benjamin Levy](https://benlevyx.github.io)"
+copyright = "Website DESIGN &copy; 2020 [Benjamin Levy](https://benlevyx.github.io)"
 
 
 ################################# Goldmark shortcodes ####################################

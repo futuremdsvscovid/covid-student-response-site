@@ -9,17 +9,22 @@
   </url>
   
   <url>
+    <loc>https://covidstudentresponse.org/campaigns/social-media/</loc>
+    <lastmod>2020-04-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://covidstudentresponse.org/</loc>
     <lastmod>2020-04-02T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://covidstudentresponse.org/campaigns/gallery/</loc>
+    <loc>https://covidstudentresponse.org/campaigns/social-media/gallery/</loc>
     <lastmod>2020-04-02T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://covidstudentresponse.org/campaigns/ppe/mask-making/</loc>
+    <loc>https://covidstudentresponse.org/resources/mask-making/</loc>
     <lastmod>2020-04-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -29,7 +34,7 @@
   </url>
   
   <url>
-    <loc>https://covidstudentresponse.org/campaigns/ppe/</loc>
+    <loc>https://covidstudentresponse.org/resources/</loc>
     <lastmod>2020-04-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -114,37 +119,12 @@
   </url>
   
   <url>
-    <loc>https://covidstudentresponse.org/about/</loc>
-    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://covidstudentresponse.org/about/comm-activism/</loc>
-    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://covidstudentresponse.org/about/med-activism/</loc>
-    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://covidstudentresponse.org/campaigns/community-activism/</loc>
     <lastmod>2019-07-06T15:27:17+06:00</lastmod>
   </url>
   
   <url>
-    <loc>https://covidstudentresponse.org/about/comm-ed/</loc>
-    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://covidstudentresponse.org/about/med-ed/</loc>
-    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://covidstudentresponse.org/campaigns/ppe/ppe/</loc>
+    <loc>https://covidstudentresponse.org/campaigns/ppe/</loc>
     <lastmod>2019-07-06T15:27:17+06:00</lastmod>
   </url>
   
@@ -154,11 +134,23 @@
   </url>
   
   <url>
+    <loc>https://covidstudentresponse.org/about/</loc>
+  </url>
+  
+  <url>
     <loc>https://covidstudentresponse.org/contact/</loc>
   </url>
   
   <url>
+    <loc>https://covidstudentresponse.org/campaigns/contra-covid/</loc>
+  </url>
+  
+  <url>
     <loc>https://covidstudentresponse.org/campaigns/health-literacy-project/</loc>
+  </url>
+  
+  <url>
+    <loc>https://covidstudentresponse.org/campaigns/ppe/</loc>
   </url>
   
 </urlset>
