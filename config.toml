@@ -68,10 +68,10 @@ hasChildren = true
   hasChildren = true
   URL = "campaigns/ppe"
 
-  [[menu.main]]
-  parent = "Campaigns"
-  name = "@FutureMDvsCOVID"
-  URL = "campaigns/social-media"
+#  [[menu.main]]
+#  parent = "Campaigns"
+#  name = "@FutureMDvsCOVID"
+#  URL = "campaigns/social-media"
 
   [[menu.main]]
   parent = "Campaigns"
