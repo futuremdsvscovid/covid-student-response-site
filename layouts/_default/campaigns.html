@@ -4,7 +4,7 @@
     <img class="card-img-top rounded-0" style="position:absolute; max-height: 100%; top:0; bottom:0; right: 0; left: 0; object-fit: cover; object-position: top;" src="{{ .Params.Image | relURL }}" alt="{{ .Title }}">
   </div>
   <div class="card-body">
-    <h4 class="card-title"><a href="{{ .Permalink }}">{{ .Title }}</a></h4>
+    <h4 class="card-title"><a href="{{ with .Params.extURL }}{{ . }}{{ else }}{{ .Permalink }}{{ end }}">{{ .Title }}</a></h4>
     <p class="card-text">{{ .Summary | truncate 100 }}</p>
   </div>
 </div>

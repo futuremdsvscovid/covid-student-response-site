@@ -9,6 +9,8 @@ description : ""
 # Research image
 image: "images/resources/curriculum/curriculum.jpg"
 # type
-type: "ppe"
+URL: ""
+extURL: "https://curriculum.covidstudentresponse.org/"
 ---
 
+Produced by Harvard Medical Students, updated frequently.
