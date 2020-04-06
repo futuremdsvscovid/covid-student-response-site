@@ -10,6 +10,8 @@ description : ""
 image: "images/campaigns/mask-making.jpg"
 # type
 type: "ppe"
+aliases:
+    - /campaigns/ppe/mask-making/
 ---
 
 {{% center-block %}}
