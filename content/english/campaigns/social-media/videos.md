@@ -7,5 +7,5 @@ image: "images/campaigns/future-md-vs-covid.jpg"
 # meta description
 summary : "Fun and educational videos"
 type: social-media
-URL: "/tags/video"
+URL: "/categories/video"
 ---

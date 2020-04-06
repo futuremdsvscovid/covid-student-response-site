@@ -7,7 +7,7 @@ bg_image: "images/backgrounds/page-title.jpg"
 # meta description
 description : ""
 # post thumbnail
-image: "images/blog/video-post.png"
+image: "images/social-media/videos/faq-video.jpg"
 # post author
 author: "Future MDs vs. COVID-19"
 # taxonomy

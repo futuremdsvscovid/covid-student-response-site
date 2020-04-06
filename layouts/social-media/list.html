@@ -11,8 +11,12 @@
         <!-- post type list -->
         <div class="row justify-content-center">
             <!-- course item -->
-            {{ range .Data.Pages }}
+            <script>console.log("Pages")</script>
+            {{ range where .Data.Pages "Type" "in" "[social-media, gallery]" }}
             <div class="col-lg-4 col-sm-6 mb-5">
+                <script>
+                    console.log("{{ .Params.title }}")
+                </script>
                 {{ .Render "research" }}
             </div>
             {{ end }}

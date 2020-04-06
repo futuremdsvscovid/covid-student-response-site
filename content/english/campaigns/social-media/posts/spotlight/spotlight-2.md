@@ -11,7 +11,7 @@ image: "images/campaigns/social-media/spotlight/jean-jean-miller.jpg"
 # post author
 author: ""
 # taxonomy
-categories: ["Spotlight"]
+categories: ["spotlight"]
 tags: ["spotlight-series"]
 type: "post"
 ---

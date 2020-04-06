@@ -11,7 +11,7 @@ image: "images/campaigns/social-media/spotlight/allison-stieler.jpg"
 # post author
 author: "Evan Stieler"
 # taxonomy
-categories: ["Spotlight"]
+categories: ["spotlight"]
 tags: ["spotlight-series"]
 # type
 type: "post"

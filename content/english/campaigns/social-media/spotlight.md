@@ -7,5 +7,5 @@ image: "images/campaigns/future-md-vs-covid.jpg"
 # meta description
 summary : "Profiles of the front-line health workers who are keeping us safe."
 type: social-media
-URL: "/tags/spotlight-series"
+URL: "/categories/spotlight"
 ---

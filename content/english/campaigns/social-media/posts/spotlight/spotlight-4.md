@@ -11,7 +11,7 @@ image: "images/campaigns/social-media/spotlight/carlos-torres.jpg"
 # post author
 author: "Melody Huang"
 # taxonomy
-categories: ["Spotlight"]
+categories: ["spotlight"]
 tags: ["spotlight-series"]
 type: "post"
 ---

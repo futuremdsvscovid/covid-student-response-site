@@ -11,7 +11,7 @@ image: "images/campaigns/social-media/spotlight/sarah-camisao.jpg"
 # post author
 author: "Kruti Vora"
 # taxonomy
-categories: ["Spotlight"]
+categories: ["potlight"]
 tags: ["spotlight-series"]
 type: "post"
 ---
