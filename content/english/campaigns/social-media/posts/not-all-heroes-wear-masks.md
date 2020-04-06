@@ -11,7 +11,7 @@ image: "images/blog/mask-hero.jpg"
 # post author
 author: "Future MDs vs. COVID-19"
 # taxonomy
-categories: ["Video"]
+categories: ["campaign"]
 tags: ["Community activism", "Campaign", "PPE"]
 # type
 type: "post"
