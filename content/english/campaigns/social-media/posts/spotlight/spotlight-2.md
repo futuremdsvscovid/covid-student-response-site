@@ -1,5 +1,5 @@
 ---
-title: "Jean Jean Miller"
+title: "Jennifer Jean Miller"
 date: 2020-03-26
 draft: false
 # page title background image
@@ -7,7 +7,7 @@ bg_image: "images/backgrounds/page-title.jpg"
 # meta description
 description : "Medical Technologist"
 # post thumbnail
-image: "images/campaigns/social-media/spotlight/jean-jean-miller.jpg"
+image: "images/social-media/spotlight/jennifer-jean-miller.jpg"
 # post author
 author: ""
 # taxonomy

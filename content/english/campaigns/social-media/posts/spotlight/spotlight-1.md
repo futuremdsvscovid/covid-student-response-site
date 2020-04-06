@@ -7,7 +7,7 @@ bg_image: "images/backgrounds/page-title.jpg"
 # meta description
 description : "Allison Stieler is a Nurse at Saint Thomas - Rutherford Hospital."
 # post thumbnail
-image: "images/campaigns/social-media/spotlight/allison-stieler.jpg"
+image: "images/social-media/spotlight/allison-stieler.jpg"
 # post author
 author: "Evan Stieler"
 # taxonomy

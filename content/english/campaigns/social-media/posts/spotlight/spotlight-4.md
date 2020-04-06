@@ -7,7 +7,7 @@ bg_image: "images/backgrounds/page-title.jpg"
 # meta description
 description : "Harvard Medical School M4"
 # post thumbnail
-image: "images/campaigns/social-media/spotlight/carlos-torres.jpg"
+image: "images/social-media/spotlight/carlos-torres.jpg"
 # post author
 author: "Melody Huang"
 # taxonomy

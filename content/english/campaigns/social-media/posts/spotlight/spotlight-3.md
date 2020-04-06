@@ -7,11 +7,11 @@ bg_image: "images/backgrounds/page-title.jpg"
 # meta description
 description : "BWH Neurology Registered Nurse"
 # post thumbnail
-image: "images/campaigns/social-media/spotlight/sarah-camisao.jpg"
+image: "images/social-media/spotlight/sarah-camisao.jpg"
 # post author
 author: "Kruti Vora"
 # taxonomy
-categories: ["potlight"]
+categories: ["spotlight"]
 tags: ["spotlight-series"]
 type: "post"
 ---
