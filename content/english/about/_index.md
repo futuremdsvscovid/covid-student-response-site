@@ -26,6 +26,10 @@ Kirstin Woody Scott
 
 Derek Soled
 
+<u>Web Development</u>
+
+Benjamin Levy
+
 <br>
 
 ## Committees

@@ -7,7 +7,7 @@ bg_image: "images/campaigns/"
 # meta description
 description : ""
 # Research image
-image: "images/campaigns/mask-making.jpg"
+image: "images/resources/curriculum/curriculum.jpg"
 # type
 type: "ppe"
 ---

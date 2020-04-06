@@ -68,10 +68,10 @@ hasChildren = true
   hasChildren = true
   URL = "campaigns/ppe"
 
-#  [[menu.main]]
-#  parent = "Campaigns"
-#  name = "@FutureMDvsCOVID"
-#  URL = "campaigns/social-media"
+  [[menu.main]]
+  parent = "Campaigns"
+  name = "@FutureMDvsCOVID"
+  URL = "campaigns/social-media"
 
   [[menu.main]]
   parent = "Campaigns"
@@ -193,7 +193,7 @@ contentDir = "content/english"
 weight = 1
 home = "Home"
 # copyright
-copyright = "Website DESIGN &copy; 2020 [Benjamin Levy](https://benlevyx.github.io)"
+copyright = "Website &copy; 2020 [Benjamin Levy](https://benlevyx.github.io)"
 
 
 ################################# Goldmark shortcodes ####################################
