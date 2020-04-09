@@ -109,6 +109,11 @@ hasChildren = true
    name = "Phonecalling for PPE donations"
    URL = "resources/requesting-ppe"
 
+   [[menu.main]]
+   parent = "Resources"
+   name = "Food Resources in Boston"
+   URL = "resources/boston-food"
+
 [[menu.main]]
 weight = 4
 name = "News"
