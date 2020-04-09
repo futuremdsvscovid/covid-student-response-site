@@ -1,6 +1,6 @@
 ---
 title: "Infographics"
-draft: false
+draft: true
 # page title background image
 bg_image: "images/campaigns/page-title.jpg"
 image: "images/social-media/infographics/infographic-1.jpg"
