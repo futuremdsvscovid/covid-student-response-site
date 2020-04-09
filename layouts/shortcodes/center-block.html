@@ -1,5 +1,5 @@
 <div style="text-align:center;">
-  <div style="display:inline-block; width:75%;">
+  <div style="display:inline-block; width:{{ if .Get "width" }}{{ .Get "width"}}{{ else }}75%{{ end }};">
     {{.Inner}}
   </div> 
 </div>

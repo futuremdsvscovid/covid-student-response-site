@@ -41,14 +41,18 @@ type: "campaigns"
 
 ### We need your help!
 
+{{% center-block width="50%" %}}
+
 Are you... | Email...
 ---|---
-Trying to donate PPE? | Sophia_meyerson@hms.harvard.edu
+Trying to donate PPE? | jennifer_kizza@hms.harvard.edu, mlee@hms.harvard.edu, and Tiwadeye_Lawal@hms.harvard.edu
 Trying to sell PPE? | Casey_Poore@hms.harvard.edu
 Interested in mask innovation? | Leila_Mashouf@hms.harvard.edu
 Hoping to advocate for PPE legislation? | Maahika_Srinivasan@hms.harvard.edu
-Interested in social media efforts? | SanjayRaaj_Gadi@hms.harvard.edu
+Interested in social media efforts? | SanjayRaaj_Gadi@hms.harvard.edu and Melody_Huang@hms.harvard.edu
 Interested in sewing masks? | Casey_Poore@hms.harvard.edu
+
+{{% /center-block %}}
 
 Want to join our team? Email Grace_baldwin@hms.harvard.edu
 
