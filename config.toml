@@ -82,6 +82,11 @@ hasChildren = true
   parent = "Campaigns"
   name = "Contra COVID"
   URL = "campaigns/contra-covid"
+
+  [[menu.main]]
+  parent = "Campaigns"
+  name = "Mental Health Initiative"
+  URL = "campaigns/mental-health-initiative"
   
  [[menu.main]]
  name = "Resources"

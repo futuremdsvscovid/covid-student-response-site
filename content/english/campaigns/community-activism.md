@@ -75,3 +75,8 @@ Facebook: [@studentsvspandemics](https://facebook.com/studentsvspandemics)
 
 Or email us at: studentsvspandemics@gmail.com
 
+### Mental Health Initiative
+
+During this time of uncertainty and fear, the new Mental Health Initiative is working to promote #SocialConnectedness while maintaining #PhysicalDistancing.
+
+See more here: [Mental Health Initiative](/campaigns/mental-health-initiative/)
