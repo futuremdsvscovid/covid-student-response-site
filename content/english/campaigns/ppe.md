@@ -65,3 +65,20 @@ Help advocate for our health care workers by signing these petitions!
 * [Get me PPE!](https://docs.google.com/forms/d/e/1FAIpQLScjFPk0gaauYehexFzDDj-hdyXLEw6NlwPwEvf2SCQ__yElJQ/viewform)
 * [Reach out to local businesses and ask them to donate PPE](/resources/requesting-ppe/)
 
+### PPE Advocacy
+
+As the PPE Shortage continues to be one of the main barriers facing our healthcare system, there are 4 easy steps you can take to help advocate for more personal protective equipment. Follow the links below to sign petitions and call on your elected officials to take the action that we need to confront this crisis.
+
+{{% center-block%}}
+
+{{< figure src="/images/campaigns/ppe/ppe-advocacy.jpg" width="50%">}}
+
+{{% /center-block %}}
+
+Find the links here:
+
+* [tinyurl.com/moveonppe](https://tinyurl.com/moveonppe/)
+* [getmeppe.org](https://getmeppe.org/)
+* [bit.ly/PPEMANDATE](https://bit.ly/PPEMANDATE/)
+* [tinyurl.com/ppecalls](https://tinyurl.com/ppecalls/)
+
