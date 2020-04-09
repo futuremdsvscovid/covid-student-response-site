@@ -79,6 +79,6 @@ Find the links here:
 
 * [tinyurl.com/moveonppe](https://tinyurl.com/moveonppe/)
 * [getmeppe.org](https://getmeppe.org/)
-* [bit.ly/PPEMANDATE](https://bit.ly/PPEMANDATE/)
+* [bit.ly/PPEMANDATE](https://docs.google.com/forms/d/e/1FAIpQLScMNejW_rvG2tDpqR9f7ws7fV2FwU9EaofewIvQ1m1lnBiuTA/viewform)
 * [tinyurl.com/ppecalls](https://tinyurl.com/ppecalls/)
 
