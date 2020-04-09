@@ -63,4 +63,5 @@ Help advocate for our health care workers by signing these petitions!
 * [Urge Massachusetts to have stronger Mandates for PPE Donations](https://docs.google.com/forms/d/e/1FAIpQLScMNejW_rvG2tDpqR9f7ws7fV2FwU9EaofewIvQ1m1lnBiuTA/viewform)
 * [Move On Petition](https://sign.moveon.org/petitions/covid19-we-need-more-personal-protective-equipment)
 * [Get me PPE!](https://docs.google.com/forms/d/e/1FAIpQLScjFPk0gaauYehexFzDDj-hdyXLEw6NlwPwEvf2SCQ__yElJQ/viewform)
+* [Reach out to local businesses and ask them to donate PPE](/resources/requesting-ppe/)
 
