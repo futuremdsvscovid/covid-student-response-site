@@ -104,6 +104,11 @@ hasChildren = true
    name = "DIY Mask Making"
    URL = "resources/mask-making"
 
+   [[menu.main]]
+   parent = "Resources"
+   name = "Phonecalling for PPE donations"
+   URL = "resources/requesting-ppe"
+
 [[menu.main]]
 weight = 4
 name = "News"
