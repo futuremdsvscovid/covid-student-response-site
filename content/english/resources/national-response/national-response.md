@@ -1,7 +1,7 @@
 ---
 title: "Mapping the National Medical School Response"
 date: 2020-04-10
-draft: true
+draft: false
 # page title background image
 # bg_image: ""
 # meta description
