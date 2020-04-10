@@ -80,7 +80,8 @@
 {{ end }}
 
 {{ if .Params.js }}
-<script src="{{ .Params.js }}"></script>
+  {{ $script2 := resources.Get (.Params.js) }}
+  <script src="{{ $script2.Permalink }}"></script>
 {{ end }}
 
 {{ if .Params.photoswipe }}

@@ -14,7 +14,8 @@
   {{ end }}
 
   {{ if .Params.css }}
-  <link rel="stylesheet" href="{{ .Params.css }}">
+    {{ $pageStyles := resources.Get (.Params.css) | toCSS }}
+    <link rel="stylesheet" href="{{ $pageStyles.Permalink }}">
   {{ end }}
 
   {{ if .Params.photoswipe }}

@@ -1,0 +1,8 @@
+.border {
+    color: black;
+}
+
+#map {
+    height: 75vh;
+    width: 100%;
+}
