@@ -20,10 +20,10 @@ css: "css/map-and-table.css"
             <h3>Medical School Task Forces</h3>
             <p>This map and table contain responses from medical students across North America that are mobilizing to fight COVID-19.</p>
         </div>
-        <div class="col-md-6 col-sm-12">
+        <div class="col-12">
             <div id="map"></div>
         </div>
-        <div class="col-md-6 col-sm-12" style="overflow:auto;">
+        <div class="col-12" style="overflow:auto;">
             <div id="table"></div>
         </div>
     </div>

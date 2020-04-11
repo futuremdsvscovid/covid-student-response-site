@@ -26,7 +26,7 @@
   margin: 2px; }
 
 #table tbody {
-  font-size: 10px; }
+  font-size: 14px; }
 
 #table tbody b {
   font-size: 14px; }
@@ -35,10 +35,13 @@
   padding: 0px;
   margin: 0px; }
 
-.school-initiatives {
+.col-0 {
+  width: 25%; }
+
+.col-1 {
   width: 75%; }
 
-th {
+th.col-0, th.col-1 {
   background: white;
   position: sticky;
   top: 0;
