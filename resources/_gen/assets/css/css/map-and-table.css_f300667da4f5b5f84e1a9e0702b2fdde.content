@@ -7,7 +7,7 @@
   position: relative; }
 
 .main-container {
-  height: 80vh;
+  height: 100%;
   position: relative; }
 
 #table {

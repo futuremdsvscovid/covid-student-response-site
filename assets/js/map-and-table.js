@@ -139,8 +139,10 @@ function loadLeafletAndDrawMap(data) {
 //************** TABLE **************//
 function makeTable(data) {
   table = $('#table').attr('class', 'table table-hover');
-  // table.append('<thead></thead>');
-  // thead = $('#table thead');
+  table.append('<thead></thead>');
+  thead = $('#table thead');
+  thead.append('<th colspan="2">Medical School COVID-19 Responses</th>')
+  //
   // ['school-info', 'school-initiatives'].forEach(function(d) {
   //   thead.append(`<th class=${d}></th>`).attr('scope', 'col');
   // });
@@ -233,7 +235,7 @@ function getRowGroup(d, names, questions) {
   for (var e in names) {
     var q = questions[e],
         resp = d[q];
-    if (!(resp === "")) {
+    if (!((resp === "") || (resp === undefined))) {
       var decName = names[e],
           decRow = makeRowTd([decName, resp]);
       res.push(decRow);
