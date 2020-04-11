@@ -7,7 +7,7 @@ bg_image: "images/campaigns/mask-box.jpg"
 # meta description
 description : ""
 # Research image
-# image: ""
+image: "/images/resources/ppe/ppe-supplies-to-request.jpg"
 # type
 type: "ppe"
 ---

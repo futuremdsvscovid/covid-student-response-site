@@ -7,7 +7,7 @@ bg_image: "images/resources/food/food-bank.jpg"
 # meta description
 description : ""
 # Research image
-# image: ""
+image: "/images/resources/food/food-bank.jpg"
 # type
 type: "ppe"
 ---

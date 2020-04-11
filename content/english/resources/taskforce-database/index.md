@@ -7,7 +7,7 @@ draft: false
 # meta description
 description : "We are collecting information on what med students across the U.S. and Canada are doing to mobilize their peers in the fight against COVID-19"
 # Research image
-# image: ""
+image: "img/map.jpg"
 type: "interactive"
 layout:: "single"
 js: "/js/map-and-table.js"
