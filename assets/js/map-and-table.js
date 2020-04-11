@@ -247,7 +247,14 @@ function getRowGroup(d, names, questions) {
 function makeRow(cells, rowType) {
   var res = ['<tr>'];
   cells.forEach((d, i) => {
-    res.push(`<${rowType} class="col-${i}">${d}</${rowType}>`)
+    var toAdd;
+    if (i > 0) {
+      var contents = d.replace(/\w*;\w*/, '</li><li>');
+      toAdd = `<ul><li>${contents}</li></ul>`;
+    } else {
+      toAdd = d;
+    }
+    res.push(`<${rowType} class="col-${i}">${toAdd}</${rowType}>`)
   });
   res.push('</tr>');
   return res.join('')
