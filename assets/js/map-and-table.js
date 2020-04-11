@@ -249,7 +249,7 @@ function makeRow(cells, rowType) {
   cells.forEach((d, i) => {
     var toAdd;
     if (i > 0) {
-      var contents = d.replace(/\w*;\w*/, '</li><li>');
+      var contents = d.replace(/;\w*/g, '</li><li>');
       toAdd = `<ul><li>${contents}</li></ul>`;
     } else {
       toAdd = d;
