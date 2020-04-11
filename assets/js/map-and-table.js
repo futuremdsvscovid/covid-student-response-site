@@ -52,7 +52,7 @@ $.getScript("https://d3js.org/d3.v5.min.js", function() {
     });
 
     loadLeafletAndDrawMap(data);
-    // makeTable(data);
+    makeTable(data);
   });
 })
 
@@ -119,6 +119,8 @@ function loadLeafletAndDrawMap(data) {
         } else {
           layer.bindPopup(feature.properties.name);
         }
+        layer.on('mouseover', function() { layer.openPopup(); });
+        layer.on('mouseout', function() { layer.closePopup(); });
       }
     }
 
@@ -136,5 +138,122 @@ function loadLeafletAndDrawMap(data) {
 
 //************** TABLE **************//
 function makeTable(data) {
+  table = $('#table').attr('class', 'table table-hover');
+  // table.append('<thead></thead>');
+  // thead = $('#table thead');
+  // ['school-info', 'school-initiatives'].forEach(function(d) {
+  //   thead.append(`<th class=${d}></th>`).attr('scope', 'col');
+  // });
+  table.append('<tbody></tbody>');
+  tbody = $('#table tbody');
+  data.forEach(function(d) {
+    tbody.append(schoolRows(d));
+  })
+}
 
+var initiativeNames = {
+  directPatientCare: 'Direct patient care',
+  remoteCare: 'Remote patient care',
+  nonClinical: 'Non-clinical initiatives',
+  healthcareWorker: 'Healthcare worker support initiatives',
+  commOutreach: 'Community outreach programs',
+  medSchool: 'Administrative decisions',
+  cov19Ed: 'COVID-19 education'
+};
+
+var adminDecisions = {
+  medSchoolClinRot: 'Allowing clinical rotations',
+  medSchoolSubIntern: 'Allowing medicine sub-internships',
+  medSchoolAwayRot: 'Allowing away rotations',
+  medSchoolEarlyGrad: 'Planning to offer early graduation',
+  medSchoolEarlyGradWhen: 'Graduating',
+  medSchoolWellness: 'Mental wellness supports for student body',
+};
+
+var initiativeQuestions = {
+  directPatientCare: 'Does your task force coordinate any of the following in-person patient care-related opportunities for medical students?',
+  remoteCare: 'Does your task force coordinate any of the following remote (virtual only) patient care-related opportunities for medical students?',
+  nonClinical: 'Does your task force coordinate any other opportunities that do not involve clinical care?',
+  healthcareWorker: 'Does your task force coordinate any of the following initiatives supporting healthcare workers in the community?',
+  commOutreach: 'Does your task force coordinate any of the following community outreach programs?',
+  medSchoolClinRot: 'Is your medical school currently allowing clinical rotations?',
+  medSchoolSubIntern: 'Is your medical school currently allowing medicine sub-internships?',
+  medSchoolAwayRot: 'Is your medical school currently allowing away rotations?',
+  medSchoolEarlyGrad: 'Is your medical school planning to offer early graduation?',
+  medSchoolEarlyGradWhen: 'If your school is graduating students early, when?',
+  medSchoolWellness: 'Are there any mental wellness support measures in place for the student body?',
+  cov19Ed: 'Has your medical school faculty or administration distributed COVID19 education materials to the student body?',
+  cov19EdKind: 'What kind of materials are you using to learn about COVID19?',
+  otherInfo: 'If is there any additional information you would like to share with our team regarding your COVID19 task force or any of the initiatives at school? please share below.',
+  advocacy: 'Is your task force involved in any advocacy initiatives?'
+};
+
+function schoolRows(d) {
+  var res = [],
+      name = d["If USA, which school are you representing?"],
+      city = d["City of main medical school campus"],
+      state = d["If USA, in which state is your medical school?"],
+      website = d["If your task force has a website, please write the address."],
+      contact = d["Who is the best point of contact (name and email) for your task force for any communication going forward?"],
+      instagram = `IG: ${d["If your task force has an Instagram account, please write the handle."]}`;
+
+  // School name and city
+  var header = makeRowTh([name, `${city}, ${state}`]);
+  res.push(header);
+
+  // Contact info
+  var contacts = [website, contact, instagram];
+  contacts = contacts.join('<br/>');
+  var contactInfo = makeRowTd(["Contact information", contacts]);
+  res.push(contactInfo);
+
+  // Getting info for each field on questionnaire
+  var rows = getSchoolInitiatives(d);
+  res.push(rows);
+
+  // Getting info on admin decisions
+  var adminDecisions = getAdminDecisions(d);
+  res.push(adminDecisions);
+
+  // Process into html element
+  res = res.join('');
+  return res;
+}
+
+function getSchoolInitiatives(d) {
+  return getRowGroup(d, initiativeNames, initiativeQuestions);
+}
+
+function getAdminDecisions(d) {
+  return getRowGroup(d, adminDecisions, initiativeQuestions);
+}
+
+function getRowGroup(d, names, questions) {
+  var res = [];
+  for (var e in names) {
+    var q = questions[e],
+        resp = d[q];
+    if (!(resp === "")) {
+      var decName = names[e],
+          decRow = makeRowTd([decName, resp]);
+      res.push(decRow);
+    }
+  }
+  return res.join('');
+}
+
+function makeRow(cells, rowType) {
+  var res = ['<tr>'];
+  cells.forEach(d => {
+    res.push(`<${rowType}>${d}</${rowType}>`)
+  });
+  res.push('</tr>');
+  return res.join('')
+}
+
+function makeRowTd(cells) {
+  return makeRow(cells, 'td');
+}
+function makeRowTh(cells) {
+  return makeRow(cells, 'th');
 }

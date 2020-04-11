@@ -3,4 +3,43 @@
 
 #map {
   height: 75vh;
-  width: 100%; }
+  width: 100%;
+  position: relative; }
+
+.main-container {
+  height: 80vh;
+  position: relative; }
+
+#table {
+  height: 75vh;
+  position: relative; }
+
+/*************** TABLE STYLES ***************/
+#table table {
+  table-layout: fixed;
+  word-wrap: break-word;
+  word-break: break-all; }
+
+.school-info {
+  width: 25%;
+  padding: 5px;
+  margin: 2px; }
+
+#table tbody {
+  font-size: 10px; }
+
+#table tbody b {
+  font-size: 14px; }
+
+.school-info ul {
+  padding: 0px;
+  margin: 0px; }
+
+.school-initiatives {
+  width: 75%; }
+
+th {
+  background: white;
+  position: sticky;
+  top: 0;
+  box-shadow: 0 2px 2px -1px rgba(0, 0, 0, 0.4); }
