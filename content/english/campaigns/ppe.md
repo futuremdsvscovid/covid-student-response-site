@@ -56,7 +56,7 @@ Interested in sewing masks? | Casey_Poore@hms.harvard.edu
 
 Want to join our team? Email Grace_baldwin@hms.harvard.edu
 
-**START HELPING TODAY:** Click [here](https://docs.google.com/spreadsheets/d/1xpCi470O-V-qRko6RSWxwBKIw601AZfkNu-cmeaIyak/edit?usp=sharing) for our google sheet that contains numerous resources for various initiatives, donation instructions, and more information on how you can start helping today! 
+Click here for a Boston and Massachusetts wide google sheet for coordinating PPE donation, purchasing, and outreach: https://tinyurl.com/wm9htyg
 
 Help advocate for our health care workers by signing these petitions! 
 

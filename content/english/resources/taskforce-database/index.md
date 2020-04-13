@@ -18,7 +18,12 @@ css: "css/map-and-table.css"
     <div class="row main-container">
         <div>
             <h3>Medical School Task Forces</h3>
-            <p>This map and table contain responses from medical students across North America that are mobilizing to fight COVID-19.</p>
+            <p>
+                This database is a collaboration between the students at Harvard University and University of Vermont Medical School. The purpose of this database is to crowdsource initiatives that students are offering to their communities in light of increased demand on the healthcare system. In the next iteration of the database, we will include details of specific initiatives as wee as student leader information as a means of fostering collaboration between medical schools and to connect interested parties with opportunities to contribute to the COVID19 effort.
+            </p>
+            <p>
+                If you would like to be included in the database please complete <u><a href="https://docs.google.com/forms/d/e/1FAIpQLSczyC4iC-19JTnT885d7XsE29bVaoOyc_X1j0UbbfsgLU2EuQ/viewform?usp=sf_link">this form</a></u>. If you have any questions, please reach out to <u><a href="mailto:hmscovid19studentresponse@gmail.com">hmscovid19studentresponse@gmail.com</a></u>
+            </p>
         </div>
         <div class="col-12">
             <div id="map"></div>
