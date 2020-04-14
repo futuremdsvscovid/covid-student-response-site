@@ -151,7 +151,14 @@ function makeTable(data) {
   tbody = $('#table tbody');
   data.forEach(function(d, i) {
     tbody.append(schoolRows(d, i));
-  })
+  });
+
+  // $('tr.collapse').on('show.bs.collapse', function() {
+  //   $(this).parent('th.clickable').addClass('active');
+  // })
+  // $('tr.collapse').on('hide.bs.collapse', function() {
+  //   $(this).parent('th.clickable').removeClass('active');
+  // })
 }
 
 var initiativeNames = {

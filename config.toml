@@ -114,6 +114,11 @@ hasChildren = true
    name = "Food Resources in Boston"
    URL = "resources/boston-food"
 
+   [[menu.main]]
+   parent = "Resources"
+   name = "Taskforce Database"
+   URL = "resources/taskforce-database"
+
 [[menu.main]]
 weight = 4
 name = "News"

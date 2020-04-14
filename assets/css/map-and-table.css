@@ -17,6 +17,9 @@
 }
 
 /*************** TABLE STYLES ***************/
+#table {
+    margin-top: 1%;
+}
 #table table {
     table-layout: fixed;
     word-wrap: break-word;
@@ -49,7 +52,7 @@
 }
 
 th.col-0, th.col-1 {
-    background: white;
+    /*background: white;*/
     position: sticky;
     top: 0;
     box-shadow: 0 2px 2px -1px rgba(0, 0, 0, 0.4);
@@ -61,5 +64,17 @@ td {
 
 td ul {
     list-style: circle;
-
 }
+
+/*th.clickable[data-toggle='collapse']:before {
+    font-family: 'Glyphicons Halflings';
+    content: "\e114";
+    float: right;
+    transition: all 0.5s;
+}
+
+th.clickable.collapsed[data-toggle='collapse']:before {
+    -webkit-transform: rotate(180deg);
+    -moz-transform: rotate(180deg);
+    transform: rotate(180deg);
+}*/
