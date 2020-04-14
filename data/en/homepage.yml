@@ -26,6 +26,16 @@ slider:
         link : "news"
 
     # slider item loop
+    - title: "Schools across North America"
+      content: "See the growing database of American and Canadian medical school response efforts and add yours now."
+      animation_in: "left"
+      animation_out: "right"
+      button:
+        enable: true
+        label: "Click here"
+        link: "/resources/taskforce-database"
+
+    # slider item loop
     - title : "Meet our committees"
       content : "Education and activism; for the medical and non-medical communities."
       animation_in : "left"
