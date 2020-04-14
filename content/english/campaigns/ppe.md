@@ -18,6 +18,10 @@ type: "campaigns"
 
 **The shortage of personal protective equipment (PPE) is already affecting our medical workers ability to protect themselves, our patients, and our public.**
 
+Click here for a Boston and Massachusetts wide google sheet for coordinating PPE donation, purchasing, and outreach: https://tinyurl.com/wm9htyg
+
+Want to join our team? Email [Grace_baldwin@hms.harvard.edu](mailto:Grace_baldwin@hms.harvard.edu)
+
 {{% /center-block %}}
 
 {{% center-block-left-align %}}
@@ -41,7 +45,7 @@ type: "campaigns"
 
 ### We need your help!
 
-{{% center-block width="50%" %}}
+{{% center-block width="75%" %}}
 
 Are you... | Email...
 ---|---
