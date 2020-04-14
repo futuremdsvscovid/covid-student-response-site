@@ -81,3 +81,18 @@ This team has developed and launched a student-led, publicly-available curriculu
 <u>Leads</u>
 
 Michael Kochis
+
+---
+
+### Medical School COVID19 Task Force Database: 
+    
+This team is focused on gathering and consolidating data on various initiatives across the country at all US accredited 
+allopathic and osteopathic medical schools. The goal for this new team is to foster collaboration to allow task forces 
+to learn from each other and for medical students and other volunteers to find initiatives in their area.
+
+The database can be found here: **[Taskforce Database](/resources/taskforce-database)**.
+
+<u>Leads</u>
+
+Troy Amen
+Vartan Pahalyants

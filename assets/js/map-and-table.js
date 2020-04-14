@@ -138,18 +138,19 @@ function loadLeafletAndDrawMap(data) {
 
 //************** TABLE **************//
 function makeTable(data) {
-  table = $('#table').attr('class', 'table table-hover');
+  table = $('<table></table>').attr('class', 'table table-hover');
+  table.appendTo('#table');
   table.append('<thead></thead>');
   thead = $('#table thead');
-  thead.append('<th colspan="2">Medical School COVID-19 Responses</th>')
+  thead.append('<th colspan="2">Medical School COVID-19 Responses (click school for more information)</th>');
   //
   // ['school-info', 'school-initiatives'].forEach(function(d) {
   //   thead.append(`<th class=${d}></th>`).attr('scope', 'col');
   // });
   table.append('<tbody></tbody>');
   tbody = $('#table tbody');
-  data.forEach(function(d) {
-    tbody.append(schoolRows(d));
+  data.forEach(function(d, i) {
+    tbody.append(schoolRows(d, i));
   })
 }
 
@@ -190,31 +191,50 @@ var initiativeQuestions = {
   advocacy: 'Is your task force involved in any advocacy initiatives?'
 };
 
-function schoolRows(d) {
+function schoolRows(d, i) {
   var res = [],
       name = d["If USA, which school are you representing?"],
       city = d["City of main medical school campus"],
       state = d["If USA, in which state is your medical school?"],
       website = d["If your task force has a website, please write the address."],
       contact = d["Who is the best point of contact (name and email) for your task force for any communication going forward?"],
-      instagram = `IG: ${d["If your task force has an Instagram account, please write the handle."]}`;
+      instagram = d["If your task force has an Instagram account, please write the handle."],
+      facebook = d["If your task force has a Facebook, please write the address. "],
+      twitter = d["If your task force has a Twitter account, please write the handle. (ie. @FutureMDvsCOVID)"];
+
+  website = `<a href="${website}" target="_blank">${website}</a>`;
+
+  var contacts = [];
+  function checkContactInfo(medium, name) {
+    if (medium !== "") {
+      contacts.push(`${name}: ${medium}`);
+    }
+  }
+
+  [ [contact, "Contact"],
+    [website, "Website"],
+    [instagram, "Instagram"],
+    [facebook, "Facebook"],
+    [twitter, "Twitter"]
+  ].forEach(d => checkContactInfo(d[0], d[1]));
+  contacts = contacts.join(';');
 
   // School name and city
-  var header = makeRowTh([name, `${city}, ${state}`]);
+  var header = makeRowTh([name, `${city}, ${state}`], i);
   res.push(header);
 
   // Contact info
-  var contacts = [website, contact, instagram];
-  contacts = contacts.join('<br/>');
-  var contactInfo = makeRowTd(["Contact information", contacts]);
+  // var contacts = [website, contact, instagram, facebook, twitter].filter(d => d !== "");
+  // contacts = contacts.join('<br/>');
+  var contactInfo = makeRowTd(["Contact information", contacts], i);
   res.push(contactInfo);
 
   // Getting info for each field on questionnaire
-  var rows = getSchoolInitiatives(d);
+  var rows = getSchoolInitiatives(d, i);
   res.push(rows);
 
   // Getting info on admin decisions
-  var adminDecisions = getAdminDecisions(d);
+  var adminDecisions = getAdminDecisions(d, i);
   res.push(adminDecisions);
 
   // Process into html element
@@ -222,34 +242,39 @@ function schoolRows(d) {
   return res;
 }
 
-function getSchoolInitiatives(d) {
-  return getRowGroup(d, initiativeNames, initiativeQuestions);
+function getSchoolInitiatives(d, i) {
+  return getRowGroup(d, initiativeNames, initiativeQuestions, i);
 }
 
-function getAdminDecisions(d) {
-  return getRowGroup(d, adminDecisions, initiativeQuestions);
+function getAdminDecisions(d, i) {
+  return getRowGroup(d, adminDecisions, initiativeQuestions, i);
 }
 
-function getRowGroup(d, names, questions) {
+function getRowGroup(d, names, questions, i) {
   var res = [];
   for (var e in names) {
     var q = questions[e],
         resp = d[q];
     if (!((resp === "") || (resp === undefined))) {
       var decName = names[e],
-          decRow = makeRowTd([decName, resp]);
+          decRow = makeRowTd([decName, resp], i);
       res.push(decRow);
     }
   }
   return res.join('');
 }
 
-function makeRow(cells, rowType) {
-  var res = ['<tr>'];
+function makeRow(cells, rowType, rowClass) {
+  var res;
+  if (rowClass !== undefined) {
+    res = [`<tr class=${rowClass}>`];
+  } else{
+    res = ['<tr>'];
+  }
   cells.forEach((d, i) => {
     var toAdd;
     if (i > 0) {
-      var contents = d.replace(/;\w*/g, '</li><li>');
+      var contents = d.replace(/;\s*/g, '</li><li>');
       toAdd = `<ul><li>${contents}</li></ul>`;
     } else {
       toAdd = d;
@@ -260,9 +285,13 @@ function makeRow(cells, rowType) {
   return res.join('')
 }
 
-function makeRowTd(cells) {
-  return makeRow(cells, 'td');
+function makeRowTd(cells, schoolNum) {
+  var row = $(makeRow(cells, 'td', `collapse`));
+  row.addClass(`school-${schoolNum}`);
+  return row.prop('outerHTML');
 }
-function makeRowTh(cells) {
-  return makeRow(cells, 'th');
+function makeRowTh(cells, schoolNum) {
+  var row = $(makeRow(cells, 'th', 'clickable'));
+  row.attr('data-toggle', 'collapse').attr('data-target', `.school-${schoolNum}`);
+  return row.prop('outerHTML');
 }
