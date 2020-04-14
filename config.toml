@@ -115,7 +115,7 @@ hasChildren = true
    URL = "resources/boston-food"
 
 [[menu.main]]
-name = "Taskforce Database"
+name = "Task Force Database"
 URL = "resources/taskforce-database"
 weight = 4
 
