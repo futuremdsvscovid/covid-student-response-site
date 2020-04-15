@@ -161,3 +161,9 @@ figcaption p {
 ul.nav li.dropdown:hover ul.dropdown-menu {
     display: block;
 }
+
+@media (min-device-width:768px) {
+    .w-sm-20 {
+        width: 20%;
+    }
+}
