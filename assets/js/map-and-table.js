@@ -2,47 +2,73 @@ console.log("We did it");
 
 //********** Loading Data ***********//
 
+var CLIENT_ID = '215843568409-98hm18619evi20acvoa5ddcb6gifdkpq.apps.googleusercontent.com',
+    API_KEY = 'AIzaSyCLOZgLJJeYpafuLnA9nHQRfl-HoYSpLFM',
+    DISCOVERY_DOCS = ["https://sheets.googleapis.com/$discovery/rest?version=v4"],
+    SCOPES = "https://www.googleapis.com/auth/spreadsheets.readonly";
+
+var spreadsheetId = '1ZP4ny5UEvOMj8tX-6V7c3aRso0gYrsAocSbb_57MzzY',
+    range = "A1:AH20";
+
 // $.getScript("https://apis.google.com/js/api.js", function(data, textStatus, jqxhr) {
 //   console.log("Loaded google sheets API");
 //
-//   var clientId = '847799223129-gn1uib4fdqf8ni9qbitgs19uas01u3b7.apps.googleusercontent.com',
-//       apiKey = 'AIzaSyDjrMQHPhyYBk1KoPl50B6stlt9Td_ztNQ',
-//       discoveryDocs = ["https://sheets.googleapis.com/$discovery/rest?version=v4"],
-//       scopes = "https://www.googleapis.com/auth/spreadsheets.readonly";
+//   function handleClientLoad() {
+//     gapi.load('client:auth2', initClient);
+//   }
 //
-//   gapi.load('client:auth2', function() {
+//   function initClient() {
 //     gapi.client.init({
-//       apiKey: apiKey,
-//       clientId: clientId,
-//       discoveryDocs: discoveryDocs,
-//       scopes: scopes
-//     }).then(function() {
-//       gapi.auth2.getAuthInstance().isSignedIn.listen(function(isSignedIn) {
-//         if (isSignedIn) {
-//           getData();
-//         }
-//       })
-//     });
-//   })
+//       apiKey: API_KEY,
+//       clientId: CLIENT_ID,
+//       discoveryDocs: DISCOVERY_DOCS,
+//       scope: SCOPES
+//     }).then(function () {
+//       gapi.auth2.getAuthInstance().signIn();
 //
-//   function getData() {
+//       // Listen for sign-in state changes.
+//       gapi.auth2.getAuthInstance().isSignedIn.listen(updateSigninStatus);
+//
+//       // Handle the initial sign-in state.
+//       updateSigninStatus(gapi.auth2.getAuthInstance().isSignedIn.get());
+//     }, function(error) {
+//       console.log(JSON.stringify(error, null, 2));
+//     });
+//   }
+//
+//   function updateSigninStatus(isSignedIn) {
+//     if (isSignedIn) {
+//       console.log("Signed in");
+//       readData();
+//     } else {
+//       console.log("Not signed in");
+//     }
+//   }
+//
+//   function readData() {
 //     gapi.client.sheets.spreadsheets.values.get({
 //       spreadsheetId: spreadsheetId,
-//       range: "A1:AH3"
-//     }).then(resp => {
-//       var result = resp.result;
+//       range: range
+//     }).then((response) => {
+//       var result = response.result;
+//       var numRows = result.values ? result.values.length : 0;
+//       console.log(`${numRows} rows retrieved.`);
 //       console.log(result);
-//     })
+//     });
 //   }
+//
+//   handleClientLoad();
 // });
-//
-//
-// var spreadsheetId = '1qklx8i0bK1Uim6RJISaskjYZEsErxwCyLXB4q4aa_zc',
-//     sheetId = '480173839';
 
 $.getScript("https://d3js.org/d3.v5.min.js", function() {
-  d3.csv("data/medschool-data.csv").then(function(data) {
+  // var sheetUrl = 'https://spreadsheets.google.com/feeds/list/1ZP4ny5UEvOMj8tX-6V7c3aRso0gYrsAocSbb_57MzzY/od6/public/basic?alt=json';
+  var sheetUrl = 'http://spreadsheets.google.com/tq?tqx=out:csv&tq=select%20*&key=1ZP4ny5UEvOMj8tX-6V7c3aRso0gYrsAocSbb_57MzzY',
+      corsUrl = 'https://cors-anywhere.herokuapp.com/';
+
+  d3.csv(corsUrl + sheetUrl).then(function(data) {
+    console.log("JSON from sheet");
     console.log(data);
+
 
     data.forEach(function(d) {
       d.Timestamp = new Date(d.Timestamp);
@@ -54,7 +80,11 @@ $.getScript("https://d3js.org/d3.v5.min.js", function() {
     loadLeafletAndDrawMap(data);
     makeTable(data);
   });
-})
+
+  // d3.csv("data/medschool-data.csv").then(function(data) {
+    // console.log(data);
+  // });
+});
 
 
 //*************** MAP ***************//

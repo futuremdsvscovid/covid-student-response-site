@@ -20,8 +20,7 @@
 
 #table table {
   table-layout: fixed;
-  word-wrap: break-word;
-  word-break: break-all;
+  word-wrap: break-spaces;
   text-align: left;
   position: relative;
   border-collapse: collapse; }
@@ -48,7 +47,7 @@
   width: 75%; }
 
 th.col-0, th.col-1 {
-  /*background: white;*/
+  background: white;
   position: sticky;
   top: 0;
   box-shadow: 0 2px 2px -1px rgba(0, 0, 0, 0.4);
