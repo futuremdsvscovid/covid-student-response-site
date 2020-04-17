@@ -162,13 +162,15 @@ function makeTable(data) {
 }
 
 var initiativeNames = {
-  directPatientCare: 'Direct patient care',
-  remoteCare: 'Remote patient care',
-  nonClinical: 'Non-clinical initiatives',
-  healthcareWorker: 'Healthcare worker support initiatives',
-  commOutreach: 'Community outreach programs',
+  directPatientCare: 'Direct patient care initiatives',
+  remoteCare: 'Remote patient care initiatives',
+  nonClinical: 'Other patient care initiatives',
+  healthcareWorker: 'Initiatives to support healthcare workers',
+  commOutreach: 'Community outreach initiatives',
   medSchool: 'Administrative decisions',
-  cov19Ed: 'COVID-19 education'
+  cov19Ed: 'COVID-19 education',
+  cov19EdKind: 'Type of COVID-19 medical education',
+  advocacy: 'Advocacy initiatives'
 };
 
 var adminDecisions = {
