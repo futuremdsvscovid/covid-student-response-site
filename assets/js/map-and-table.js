@@ -263,7 +263,13 @@ function schoolRows(d, i) {
   contacts = contacts.join(';');
 
   // School name and city
-  var header = makeRowTh([name, `${city}, ${state}`], i);
+  var location;
+  if (state === '') {
+    location = city;
+  } else {
+    location = city + ', ' + state;
+  }
+  var header = makeRowTh([name, location], i);
   res.push(header);
 
   // Contact info
