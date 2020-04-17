@@ -211,6 +211,10 @@ function schoolRows(d, i) {
       facebook = d["If your task force has a Facebook, please write the address. "],
       twitter = d["If your task force has a Twitter account, please write the handle. (ie. @FutureMDvsCOVID)"];
 
+  if (name === "") {
+    name = d["If outside of the USA, what is the name of your medical school?"];
+  }
+
   website = `<a href="${website}" target="_blank">${website}</a>`;
 
   var contacts = [];
