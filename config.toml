@@ -96,6 +96,11 @@ hasChildren = true
 
    [[menu.main]]
    parent = "Resources"
+   name = "Comprehensive PPE Resources List"
+   URL = "resources/ppe-resources"
+
+   [[menu.main]]
+   parent = "Resources"
    name = "Medical Curriculum"
    URL = "https://curriculum.covidstudentresponse.org/"
 
