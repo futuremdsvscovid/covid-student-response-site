@@ -29,6 +29,11 @@ Call local businesses, including:
 
 Ask if they have supplies they would be willing to donate. Here is a sample script to follow:
 
+If you are in Massachusetts, please refer to the [Massachusetts PPE Coordination Effort collaborative 
+document](https://tinyurl.com/wm9htyg). Under the “Outreach Tab” there is a list of local businesses to reach out, including 
+those that have already been contacted. This is important to utilize and add to so as to decrease 
+duplication of efforts in contacting businesses.
+
 #### Script
 
 Hi, my name is ___________. I’m reaching out regarding the shortage of Personal Protective Equipment due to the coronavirus pandemic. We are wondering if you have any masks or other equipment that you could donate to a local hospital. 
@@ -45,11 +50,21 @@ What supplies are needed?
 
 {{% center-block %}}
 
-![](/images/resources/ppe/ppe-supplies-to-request.jpg)
+{{< figure src="/images/resources/ppe/ppe-supplies-to-request.jpg" width="75%" >}}
 
 {{% /center-block %}}
 
-How do we donate?
+### How do we donate PPE?
 
-* We are collaborating with [MedSupplyDrive](https://www.medicalsupplydrive.com/), a non-profit organization started by medical students at Georgetown University. Fill out [this form](https://docs.google.com/forms/d/1YSXn7vL6BaxqDXdiJkyYeJlsneW-ASFA7y7a3MUmQ_0/viewform?edit_requested=true) if you have supplies. Students volunteering with MedSupplyDrive will connect with you to find the best way to donate to a hospital. They have volunteers all around the country who will help with pick ups and donations to a list of hospitals who desperately need your help. 
-* If there is a specific hospital you want to donate supplies to, here are two useful websites with instructions on how to donate: https://getusppe.org and donatePPE.org.
+They are a variety of organization and initiatives that are working to get PPE into the hands of medical workers.
+
+* For donation instructions for hospitals around the country please refer to [getusppe.org](http://getusppe.org/) and [donatePPE.org](http://donatePPE.org).
+
+### Are you located in Massachusetts?
+
+* Consider filling out the [City of Boston COVID-19 Donation Intake Form](https://bostonopendata.knack.com/covid-19-donation-intake-form#home/) and the [Mass.gov PPE Donation Program Form](https://www.mass.gov/forms/covid-19-donation-program)
+* Hospital Donation information Resources: Massachusetts PPE Coordination Effort and Corona Virus Project.
+
+### Do need assistance with pick up and drop off of PPE?
+
+* Consider filling out one of the following forms: [GetUsPPE](https://getusppe.org/give/) and [Med Supply Drive Form](https://docs.google.com/forms/d/1YSXn7vL6BaxqDXdiJkyYeJlsneW-ASFA7y7a3MUmQ_0/viewform?edit_requested=true). Or mail your PPE directly to a healthcare worker through the [Mask Match Form](https://match766136.typeform.com/to/DlQ1xY).
