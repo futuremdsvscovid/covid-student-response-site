@@ -12,6 +12,20 @@ image: "images/campaigns/covid-map.jpg"
 type: "campaigns"
 ---
 
+This page provides contact information and resources on a huge range of initiatives to
+help our communities through the challenges posed by COVID-19.
+
+**All initiatives in this page:**
+
+* [Non-Clinical Support for Healthcare Workers](#non-clinical-support-for-healthcare-workers)
+* [Community Voices Initiative](#community-voices-initiative)
+* [Housing Advocacy](#housing-advocacy)
+* [Blood Shortage Call To Action](#blood-shortage-call-to-action)
+* [Students vs Pandemics](#students-vs-pandemics)
+* [Mental Health Initiative](#mental-health-initiative)
+* [Anti-Violence Initiative](#anti-violence-initiative)
+
+
 ### Non-Clinical Support for Healthcare Workers
 
 Student in Boston? Interested in reducing the effects of COVID-19 and flattening the curve? Volunteer to support health care workers. Our hospitals will become inundated with patients in the coming weeks. Health care workers will be working extra shifts to meet the high demand. Personal obligations will limit their ability to do so, especially as schools and childcare centers close. By supporting these health care workers outside the hospital we let them fight the pandemic inside the hospital. Student volunteer services include childcare, grocery and pharmacy runs etc. Please read more [here](https://docs.google.com/forms/d/1UiHsHiyT2u7yRh2g1CWHFuxtE0aCKADNR8BXaX9WsnM/viewform?edit_requested=true) to learn if you qualify, sign up, and learn how you can stay safe while volunteering. Healthcare workers can learn more about requesting support [here](https://forms.gle/sxLQRmPvrLbZHcV2A). Please note that this mechanism of matching volunteers and health care workers is not endorsed by or affiliated with any hospital or university.
@@ -80,3 +94,17 @@ Or email us at: studentsvspandemics@gmail.com
 During this time of uncertainty and fear, the new Mental Health Initiative is working to promote #SocialConnectedness while maintaining #PhysicalDistancing.
 
 See more here: [Mental Health Initiative](/campaigns/mental-health-initiative/)
+
+### Anti-Violence Initiative
+
+The Anti-Violence Initiative is a set of collaborations aiming to support a population vulnerable to violence within the home. Amidst social distancing efforts in the wake of COVID-19, social isolation and stay-at-home orders may contribute to increasing the risk/prevalence of human trafficking, intimate partner violence, and child abuse. Victims of these forms of violence normally have little access to resources, and social isolation reduces external opportunities for intervention even further. However, there are several roles in leadership/direct service for medical students to get involved! 
+
+[Anti-Violence Initiative Volunteer Form](https://docs.google.com/forms/d/e/1FAIpQLSfaGQ_SYqAjTIOQ8vnZMfeskrv5DAYX3c_yfb5d6TFF9IQJhA/viewform)
+
+Local shelter/organization collaborations: We are collaborating with various organizations throughout the city that support victims/survivors of IPV, sexual assault, child abuse, and human trafficking. There are several local opportunities for HMS students to support, advocate, educate, and volunteer with these at-risk populations. Some of the opportunities that are currently available include: pen pal campaign, leading webinar series to improve health literacy/vocational skills, leading stress-relief workshops, and organizing innovative fundraising/donation drives. 
+
+Email [jaya_prakash@hms.harvard.edu](mailto:jaya_prakash@hms.harvard.edu) for more information on how to get involved 
+
+COVID 19 Task force on DV collaboration: The COVID19 Task Force on Domestic Violence was formed to investigate, educate, and advocate on behalf of survivors as they face this unprecedented crisis. We have a diverse community of members with interests ranging from Police Department metrics analysis and health care provider resource development to seminar videos educating the public on domestic violence issues and direct advocacy to state and national representatives. If any of our goals or aspirations interest you, email us at covid19taskforcedv@gmail.com and we can find a way to help you get involved. 
+
+Email [covid19taskforcedv@gmail.com](mailto:covid19taskforcedv@gmail.com) for more information on how to get involved 
