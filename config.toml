@@ -87,6 +87,11 @@ hasChildren = true
   parent = "Campaigns"
   name = "Mental Health Initiative"
   URL = "campaigns/mental-health-initiative"
+
+  [[menu.main]]
+  parent = "Campaigns"
+  name = "Indigenous Health Partnership"
+  URL = "campaigns/indigenous-health-partnership"
   
  [[menu.main]]
  name = "Resources"
