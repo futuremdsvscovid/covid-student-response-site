@@ -124,10 +124,10 @@ hasChildren = true
    name = "Food Resources in Boston"
    URL = "resources/boston-food"
 
-    [[menu.main]]
-    parent = "Resources"
-    name = "Task Force Database"
-    URL = "resources/taskforce-database"
+[[menu.main]]
+name = "Task Force Database"
+URL = "resources/taskforce-database"
+weight = 4
 
 [[menu.main]]
 weight = 5
@@ -138,12 +138,6 @@ URL = "news"
 name = "Contact"
 URL = "contact"
 weight = 6
-
-[[menu.main]]
-name = "Harvard Portal"
-URL = "https://projects.iq.harvard.edu/hmscovidstudentresponse"
-weight = 7
-
 
 # footer menu
 
@@ -182,6 +176,7 @@ contact_form_action = "#" # contact form works with https://formspree.io
 google_analitycs_id = "UA-161953471-3" # your id
 # top header
 top_header = true
+portal_url = "https://projects.iq.harvard.edu/hmscovidstudentresponse"
 
 # Preloader
 [params.preloader]

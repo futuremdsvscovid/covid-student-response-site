@@ -15,6 +15,12 @@
         <div class="col-lg-8 text-center text-lg-right">
           <ul class="list-inline">
             <li class="list-inline-item">
+              {{ with .Site.Params.portal_url }}
+              <a href="{{ . }}" target="_blank">
+                <strong>Harvard Portal Login</strong>
+              </a>
+              {{ end }}
+            </li>
             <li class="list-inline-item">
               <a class="text-color" href="mailto:{{ .Site.Params.email }}"><strong>{{ i18n "email" | upper }} : </strong> {{ .Site.Params.email }}</a></li>
           </ul>
