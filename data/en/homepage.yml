@@ -32,7 +32,7 @@ slider:
       button:
         enable : true
         label : "Read now"
-        link : "https://kids.covidstudentresponse.org/"
+        link : "https://kids.covidstudentresponse.org"
 
     # slider item loop
     - title: "Schools across North America"
