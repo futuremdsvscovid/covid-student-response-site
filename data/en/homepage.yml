@@ -25,6 +25,15 @@ slider:
         label : "Read now"
         link : "news"
 
+    - title: "K-12 Curriculum"
+      content: "A set of fun and educational modules about COVID-19 designed by Harvard Medical Students for all ages from elementary school through high school"
+      animation_in: "left"
+      animation_out: "right"
+      button:
+        enable : true
+        label : "Read now"
+        link : "https://kids.covidstudentresponse.org/"
+
     # slider item loop
     - title: "Schools across North America"
       content: "See the growing database of American and Canadian medical school response efforts and add yours now."
