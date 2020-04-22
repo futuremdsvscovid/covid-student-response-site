@@ -111,6 +111,11 @@ hasChildren = true
 
    [[menu.main]]
    parent = "Resources"
+   name = "K-12 Curriculum"
+   URL = "https://kids.covidstudentresponse.org/"
+
+   [[menu.main]]
+   parent = "Resources"
    name = "DIY Mask Making"
    URL = "resources/mask-making"
 
