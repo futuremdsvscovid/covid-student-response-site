@@ -124,10 +124,10 @@ hasChildren = true
    name = "Food Resources in Boston"
    URL = "resources/boston-food"
 
-[[menu.main]]
-name = "Task Force Database"
-URL = "resources/taskforce-database"
-weight = 4
+    [[menu.main]]
+    parent = "Resources"
+    name = "Task Force Database"
+    URL = "resources/taskforce-database"
 
 [[menu.main]]
 weight = 5
@@ -138,6 +138,11 @@ URL = "news"
 name = "Contact"
 URL = "contact"
 weight = 6
+
+[[menu.main]]
+name = "Harvard Portal"
+URL = "https://projects.iq.harvard.edu/hmscovidstudentresponse"
+weight = 7
 
 
 # footer menu
