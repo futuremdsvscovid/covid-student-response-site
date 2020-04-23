@@ -204,8 +204,8 @@ var initiativeNames = {
 };
 
 var adminDecisions = {
-  medSchoolClinRot: 'Allowing clinical rotations',
-  medSchoolSubIntern: 'Allowing medicine sub-internships',
+  medSchoolClinRot: 'Changes to clinical rotations',
+  medSchoolSubIntern: 'Changes to basic science curriculum',
   medSchoolAwayRot: 'Allowing away rotations',
   medSchoolEarlyGrad: 'Planning to offer early graduation',
   medSchoolEarlyGradWhen: 'Graduating',
