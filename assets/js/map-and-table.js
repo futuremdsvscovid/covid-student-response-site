@@ -65,26 +65,34 @@ $.getScript("https://d3js.org/d3.v5.min.js", function() {
   var sheetUrl = 'http://spreadsheets.google.com/tq?tqx=out:csv&tq=select%20*&key=1ZP4ny5UEvOMj8tX-6V7c3aRso0gYrsAocSbb_57MzzY',
       corsUrl = 'https://cors-anywhere.herokuapp.com/';
 
-  d3.csv(corsUrl + sheetUrl).then(function(data) {
-    console.log("JSON from sheet");
-    console.log(data);
-
-
-    data.forEach(function(d) {
-      d.Timestamp = new Date(d.Timestamp);
-      d.size = +d["Approximately how many students are on your COVID19 task force? "];
-      d.lat = +d.lat;
-      d.lon = +d.lon;
-    });
-
-    loadLeafletAndDrawMap(data);
-    makeTable(data);
-  });
+  d3.csv(corsUrl + sheetUrl)
+      .then(dataLoaded)
+      .catch(function() { corsError(sheetUrl) });
 
   // d3.csv("data/medschool-data.csv").then(function(data) {
     // console.log(data);
   // });
 });
+
+function dataLoaded(data) {
+  console.log("JSON from sheet");
+  console.log(data);
+
+  data.forEach(function(d) {
+    d.Timestamp = new Date(d.Timestamp);
+    d.size = +d["Approximately how many students are on your COVID19 task force? "];
+    d.lat = +d.lat;
+    d.lon = +d.lon;
+  });
+
+  loadLeafletAndDrawMap(data);
+  makeTable(data);
+}
+
+function corsError(sheetUrl) {
+  var corsUrl = 'https://sheltered-journey-13386.herokuapp.com/';
+  d3.csv(corsUrl + sheetUrl).then(dataLoaded);
+}
 
 
 //*************** MAP ***************//
