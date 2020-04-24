@@ -206,15 +206,15 @@ var initiativeNames = {
   healthcareWorker: 'Initiatives to support healthcare workers',
   commOutreach: 'Community outreach initiatives',
   medSchool: 'Administrative decisions',
+  advocacy: 'Advocacy initiatives',
   cov19Ed: 'COVID-19 education',
-  cov19EdKind: 'Type of COVID-19 medical education',
-  advocacy: 'Advocacy initiatives'
+  cov19EdKind: 'Type of COVID-19 medical education'
 };
 
 var adminDecisions = {
   medSchoolClinRot: 'Changes to clinical rotations',
   medSchoolSubIntern: 'Changes to basic science curriculum',
-  medSchoolAwayRot: 'Allowing away rotations',
+  medSchoolAwayRot: 'Student relocation',
   medSchoolEarlyGrad: 'Planning to offer early graduation',
   medSchoolEarlyGradWhen: 'Graduating',
   medSchoolWellness: 'Mental wellness supports for student body',
