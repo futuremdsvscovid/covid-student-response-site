@@ -86,7 +86,7 @@ Courses](https://www.udemy.com/topic/photography/free/) &
 [Digital Camera World: Home Photography
 Ideas](https://www.digitalcameraworld.com/tag/homephotography)
 
-\*\*No camera? No problem, here are some great tips to take your photos
+No camera? No problem, here are some great tips to take your photos
 to the next level using only your phone.
 
 [Tips For Taking Photos With Your
