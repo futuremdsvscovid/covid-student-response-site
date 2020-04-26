@@ -10,7 +10,9 @@ image: "images/campaigns/mental-health-initiative.jpg"
 type: "campaigns"
 ---
 
-## COVID-19 Mental Health Curriculum Module
+## Education
+
+#### COVID-19 Mental Health Curriculum Module
 
 The Mental Health Initiative (MHI) team is actively working with the
 [COVID-19
@@ -31,7 +33,7 @@ COVID-19](https://curriculum.covidstudentresponse.org/module-4-mental-health-in-
 {{< figure src="/images/campaigns/mental-health/tree.png" >}}
 {{% /center %}}
 
-## Education Outreach
+#### Education Outreach
 
 The MHI team is also partnering with the [COVID-19 Education for
 Broader
@@ -46,7 +48,9 @@ Contact: [Aliya Feroe](mailto:aliya_feroe@hms.harvard.edu)
 [Twitter](https://twitter.com/FutureMDvsCOVID)/[Instagram](https://www.instagram.com/futuremdvscovid/)/[Facebook](https://www.facebook.com/futureMDvsCOVID/)/[YouTube](https://www.youtube.com/channel/UCNSJiiJCVFbWVLxgJBMAsbg):
 \@FutureMDvsCOVID
 
-## Collective Breather
+## Wellness
+
+#### Collective Breather
 
 An All-New, Zoomified Wellness Course, with an aim to practice
 \#SocialConnectedness while respecting \#PhysicalDistancing. Please join
@@ -59,7 +63,7 @@ Weekly Zoom Link:
 
 Contact: [Priya Shah](mailto:priya_shah@hms.harvard.edu)
 
-## Creative Outlets
+#### Creative Outlets
 
 A great way to combat stress is by finding a creative outlet. There are
 many different outlets that you, a friend and/or family can try out.
@@ -68,14 +72,14 @@ Below is a list with links:
 They say a picture is worth a thousand words. So why not have fun
 creating one!
 
-#### Drawing/Painting:
+**Drawing/Painting:**
 
 [Udemy: Free Painting
 Courses](https://www.udemy.com/topic/painting/free/) &
 [Udemy Free Drawing
 Courses](https://www.udemy.com/topic/drawing/free/)
 
-#### Photography
+**Photography**
 
 [Udemy: Free Photography
 Courses](https://www.udemy.com/topic/photography/free/) &
@@ -88,7 +92,7 @@ to the next level using only your phone.
 [Tips For Taking Photos With Your
 Phone](https://blog.hubspot.com/marketing/good-pictures-phone-tips)
 
-#### Virtual Museums:
+**Virtual Museums:**
 
 <div class="row">
     <div class="col-md-6 col-sm-12">
@@ -100,7 +104,7 @@ Phone](https://blog.hubspot.com/marketing/good-pictures-phone-tips)
     </div>
 </div>
 
-#### Writing
+**Writing**
 
 Writing is a great form of expression. It is a cathartic process to put
 your thoughts and emotions down in a physical form. Whether you are
@@ -116,7 +120,7 @@ Journal](https://thewritepractice.com/how-to-write-a-journal/)
 [Tips for Creative
 Writing](https://www.masterclass.com/articles/how-to-boost-creativity-and-improve-your-creative-writing#5-tips-for-writing-more-creatively)
 
-#### Cooking
+**Cooking**
 
 Do you enjoy food? Love to experiment with cooking? Never cooked, but
 want to learn? Now is a great time to delve deeper into the art of
@@ -129,7 +133,7 @@ cooking! A great pastime and an important skill to hone.
 If you have any suggestions or recommendations, please reach out to
 [David Bunn](mailto:david_bunn@hms.harvard.edu).
 
-## CPR For Mental Well-being
+#### CPR For Mental Well-being
 
 **CAHMS (Counseling & Mental Health Services)** presents **"CPR for
 Mental Wellbeing" Video Series** by Dr. Tara Cousineau, PhD.
@@ -142,7 +146,7 @@ disruptive times."
 
 [https://vimeo.com/showcase/6942447](https://vimeo.com/showcase/6942447)
 
-## Dance
+#### Dance
 
 Coreo is a locally-owned, boutique dance and fitness studio in Seattle,
 WA. Our signature classes are **hip hop/urban dance** and **Bungee
@@ -177,7 +181,7 @@ Website:
 Email:
 [flyhigh\@coreofitness.com](mailto:flyhigh@coreofitness.com)
 
-## MM Workout of the Day
+#### MM Workout of the Day
 
 Medicine in Motion (MM) is a 501(c)(3) nonprofit organization composed
 of a diverse group of healthcare providers whose mission is to address
@@ -207,7 +211,9 @@ Odewade](mailto:henry_ashworth@hms.harvard.edu),
 [Christopher
 Lites](mailto:Christopher.J.Lites.MED@dartmouth.edu)
 
-## Social Events Calendar
+## Building Virtual Communities
+
+#### Social Events Calendar
 
 As a part of the Mental Health Initiative, we\'ve organized a few
 social, wellness and mindfulness events across the month for HMS
@@ -239,7 +245,7 @@ Kester](mailto:katherine_kester@hms.harvard.edu)
 Form:
 [https://tinyurl.com/hmsvirtualbookclub](https://tinyurl.com/hmsvirtualbookclub)
 
-## Zoomaments
+#### Zoomaments
 
 We hope you are all staying safe during these rapidly evolving times. To
 help kindle a sense of community amidst this period of social
@@ -267,6 +273,8 @@ Contact:
 [zoomaments\@gmail.com](mailto:zoomaments@gmail.com)
 
 Form: [Interest form](https://docs.google.com/forms/d/e/1FAIpQLScRh8695y5WZhJmC7IQgT4JYyzR1gp7uynDZJieooUmeYlHuQ/viewform)
+
+## Community Support
 
 #### Harvard Community Resources
 

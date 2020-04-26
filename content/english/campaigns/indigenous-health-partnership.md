@@ -43,7 +43,7 @@ UN International Children’s Emergency Fund (UNICEF).
 
 ---
 
-**Founder & Director:** Victor A. Lopez-Carmen
+**Project Lead:** Victor A. Lopez-Carmen
 
 **Indigenous Team Leaders:** Jessica Vega, Carson Kiburo
 
@@ -85,7 +85,7 @@ Fialkowski
 #### Central/South America and the Caribbean
 
 *Indigenous Youth Leaders*: Jessica Vega (Mexico), Niria Alicia
-(Mexico), Taily Terena (Brazil)
+(Mexico), Taily Terena (Brazil), Antonia Benito (Guatemala)
 
 *Medical/Health Professional Students*: Michelle Lee, Casey Poore,
 Gabriella Herrera
@@ -116,6 +116,7 @@ Chen
 * Dr. Marise Stuart (Indigenous physician)
 * Dr. Sudha Balakrishnan (Physician, UN Health Specialist)
 * Amanda Myran (Indigenous Registered Nurse, Indigenous education specialist).
+* Dr. Karen Miller (Physician)
 
 ## Get involved
 
