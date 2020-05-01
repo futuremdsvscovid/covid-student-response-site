@@ -297,19 +297,7 @@ looking to become involved.
 
 A group adapting scuba masks with filters to be reusable via bleach.
 
-[dcltdw\@gmail.com](mailto:dcltdw@gmail.com)
-
-  Boston Dynamics                          kquarles\@bostondynamics.com                                                                      3D printing face shields
-  ---------------------------------------- ------------------------------------------------------------------------------------------------- -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-  Goddard Tech                             o.bermudez\@goddardtech.com, j.fox\@goddardtech.com                                               3D printing N95 masks
-  3D Corps                                 dcltdw\@gmail.com                                                                                 A group adapting scuba masks with filters to be reusable via bleach. 3dcorps.org
-  Mask On                                  bostonppe2020\@gmail.com                                                                          Our masks have been clinically tested and are already in use at hospitals in the Boston area and beyond
-  BCH Surgical Innovation Re-usable Mask   Alexander\_Yang\@hms.harvard.edu                                                                  NIOSH certification pending
-  Lowell Makes                             Marc Succi and Mark Ottensmyer                                                                    3D printing faceshields
-  BCH Surgical Innovation Re-usable Mask   Alexander\_Yang\@hms.harvard.edu                                                                  NIOSH certification pending
-  Mask On                                  bostonppe2020\@gmail.com                                                                          Our masks have been clinically tested and are already in use at hospitals in the Boston area and beyond
-  FFP2 masks                               [LINK](https://www.dropbox.com/sh/6afzycj3epoauhs/AAA2ER8aK7nQnmwRh_OHmdhRa?dl=0)                 This is the most comparable to 3M mask 1860. Right now 3M 1860 is selling for \$5.50 per piece. This goes to ICUs in Italy. Pricing: \$2.20 for 1M+ order. \$2.25/piece for below 500K order.
-  Artisan Asylum                           nicolas.warren\@artisansasylum.com                                                                
+[dcltdw\@gmail.com](mailto:dcltdw@gmail.com)                                                      
 
 #### Hand Made Masks
 

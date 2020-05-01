@@ -29,10 +29,10 @@ Call local businesses, including:
 
 Ask if they have supplies they would be willing to donate. Here is a sample script to follow:
 
-If you are in Massachusetts, please refer to the [Massachusetts PPE Coordination Effort collaborative 
+**If you are in Massachusetts, please refer to the [Massachusetts PPE Coordination Effort collaborative 
 document](https://tinyurl.com/wm9htyg). Under the “Outreach Tab” there is a list of local businesses to reach out, including 
 those that have already been contacted. This is important to utilize and add to so as to decrease 
-duplication of efforts in contacting businesses.
+duplication of efforts in contacting businesses.**
 
 #### Script
 
@@ -63,7 +63,7 @@ They are a variety of organization and initiatives that are working to get PPE i
 ### Are you located in Massachusetts?
 
 * Consider filling out the [City of Boston COVID-19 Donation Intake Form](https://bostonopendata.knack.com/covid-19-donation-intake-form#home/) and the [Mass.gov PPE Donation Program Form](https://www.mass.gov/forms/covid-19-donation-program)
-* Hospital Donation information Resources: Massachusetts PPE Coordination Effort and Corona Virus Project.
+* Hospital Donation information Resources: [Massachusetts PPE Coordination Effort](https://docs.google.com/spreadsheets/d/1nYeec3npYPhQzBo9KBA8zY63nrej308brJSSQlzGfiU/edit#gid=0) and [Corona Virus Project](https://pbiandbc.com/.
 
 ### Do need assistance with pick up and drop off of PPE?
 

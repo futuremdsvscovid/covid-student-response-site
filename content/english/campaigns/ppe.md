@@ -61,7 +61,7 @@ forms of hand-made masks.
 
 #### Other PPE Initiatives:
 
-The PPE Initiatives List \[add link to new page\] contains a
+[The PPE Initiatives List](/resources/ppe-resources) contains a
 comprehensive list of general PPE resources, national organizations, MA
 organizations, PPE advocacy, and mask innovation.
 
