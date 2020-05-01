@@ -3,6 +3,16 @@ slider:
   enable : true
   bg_image : "images/banner/banner-1.jpg"
   slider_item:
+
+    - title: "Partnership with Ariadne Labs"
+      content: "Together with Ariadne Labs, the COVID student response team is developing guides on staying safe during everyday activities."
+      animation_in: "left"
+      animation_out: "right"
+      button:
+        enable: true
+        label: "Read more"
+        link: "blog/ariadne-labs"
+
     # slider item loop
     - title : "Read the curriculum now"
       content : "Produced by Harvard Medical School students: a curriculum on COVID-19, updated frequently."
