@@ -8,6 +8,7 @@ description : ""
 image: "images/campaigns/mental-health-initiative.jpg"
 # type
 type: "campaigns"
+css: "css/mental-health.css"
 ---
 
 ## Education
@@ -47,6 +48,8 @@ Contact: [Aliya Feroe](mailto:aliya_feroe@hms.harvard.edu)
 
 [Twitter](https://twitter.com/FutureMDvsCOVID)/[Instagram](https://www.instagram.com/futuremdvscovid/)/[Facebook](https://www.facebook.com/futureMDvsCOVID/)/[YouTube](https://www.youtube.com/channel/UCNSJiiJCVFbWVLxgJBMAsbg):
 \@FutureMDvsCOVID
+
+---
 
 ## Wellness
 
@@ -211,6 +214,8 @@ Odewade](mailto:henry_ashworth@hms.harvard.edu),
 [Christopher
 Lites](mailto:Christopher.J.Lites.MED@dartmouth.edu)
 
+---
+
 ## Building Virtual Communities
 
 #### Social Events Calendar
@@ -273,6 +278,8 @@ Contact:
 [zoomaments\@gmail.com](mailto:zoomaments@gmail.com)
 
 Form: [Interest form](https://docs.google.com/forms/d/e/1FAIpQLScRh8695y5WZhJmC7IQgT4JYyzR1gp7uynDZJieooUmeYlHuQ/viewform)
+
+---
 
 ## Community Support
 
