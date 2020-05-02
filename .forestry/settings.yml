@@ -5,10 +5,12 @@ admin_path: ''
 webhook_url: 
 sections:
 - type: document
+  path: config.toml
+  label: config
+  match: "**/*"
+- type: document
   path: data/en/homepage.yml
   label: homepage
-  match: "**/*"
-  read_only: false
 - type: directory
   path: content/english/news
   label: news
