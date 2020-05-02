@@ -93,6 +93,13 @@ type: "ppe"
     Free](https://foodforfree.org/home-delivery/) and
     submit an application. Applications are available in English and
     Spanish
+    
+-  The St. Paul Parish food pantry in Harvard Square (29 Mt. Auburn Street) is
+   distributing free bags of fresh produce, bread, and non-perishable items every 
+   Saturday from 10 to 12 in the courtyard outside the church. All are welcome. 
+   No ID required and no restrictions based on residency or income. 
+   This system will be in place for the duration of the COVID-19 crisis, 
+   at which time the pantry will return to its usual procedures. More info [here].
 
 -   For access to food in the broader Massachusetts area, call the
     [FoodSource
