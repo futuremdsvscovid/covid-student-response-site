@@ -12,6 +12,7 @@ image: "images/campaigns/mask-making.jpg"
 type: "ppe"
 aliases:
     - /campaigns/ppe/mask-making/
+    - /resources/mask-making/
 ---
 
 {{% center-block %}}

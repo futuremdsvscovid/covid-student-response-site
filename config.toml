@@ -55,43 +55,37 @@ URL = "about"
 weight = 2
 name = "Campaigns"
 URL = "campaigns"
-hasChildren = true
+hasChildren = false
 
-  [[menu.main]]
-  parent = "Campaigns"
-  name = "Community Activism"
-  URL = "campaigns/community-activism"
-
-  [[menu.main]]
-  parent = "Campaigns"
-  name = "PPE Shortage Initiative"
-  hasChildren = true
-  URL = "campaigns/ppe"
-
-  [[menu.main]]
-  parent = "Campaigns"
-  name = "@FutureMDvsCOVID"
-  URL = "campaigns/social-media"
-
-  [[menu.main]]
-  parent = "Campaigns"
-  name = "Health Literacy Project"
-  URL = "campaigns/health-literacy-project"
-
-  [[menu.main]]
-  parent = "Campaigns"
-  name = "Contra COVID"
-  URL = "campaigns/contra-covid"
-
-  [[menu.main]]
-  parent = "Campaigns"
-  name = "Mental Health Initiative"
-  URL = "campaigns/mental-health-initiative"
-
-  [[menu.main]]
-  parent = "Campaigns"
-  name = "Indigenous Health Partnership"
-  URL = "campaigns/indigenous-health-partnership"
+#  [[menu.main]]
+#  parent = "Campaigns"
+#  name = "Community Activism"
+#  URL = "campaigns/community-activism"
+#
+#  [[menu.main]]
+#  parent = "Campaigns"
+#  name = "@FutureMDvsCOVID"
+#  URL = "campaigns/social-media"
+#
+#  [[menu.main]]
+#  parent = "Campaigns"
+#  name = "Health Literacy Project"
+#  URL = "campaigns/health-literacy-project"
+#
+#  [[menu.main]]
+#  parent = "Campaigns"
+#  name = "Contra COVID"
+#  URL = "campaigns/contra-covid"
+#
+#  [[menu.main]]
+#  parent = "Campaigns"
+#  name = "Mental Health Initiative"
+#  URL = "campaigns/mental-health-initiative"
+#
+#  [[menu.main]]
+#  parent = "Campaigns"
+#  name = "Indigenous Health Partnership"
+#  URL = "campaigns/indigenous-health-partnership"
   
  [[menu.main]]
  name = "Resources"
@@ -101,8 +95,8 @@ hasChildren = true
 
    [[menu.main]]
    parent = "Resources"
-   name = "Comprehensive PPE Resources List"
-   URL = "resources/ppe-resources"
+   name = "PPE Shortage Initiative"
+   URL = "resources/ppe"
 
    [[menu.main]]
    parent = "Resources"
@@ -113,16 +107,6 @@ hasChildren = true
    parent = "Resources"
    name = "K-12 Curriculum"
    URL = "https://kids.covidstudentresponse.org/"
-
-   [[menu.main]]
-   parent = "Resources"
-   name = "DIY Mask Making"
-   URL = "resources/mask-making"
-
-   [[menu.main]]
-   parent = "Resources"
-   name = "Phonecalling for PPE donations"
-   URL = "resources/requesting-ppe"
 
    [[menu.main]]
    parent = "Resources"
@@ -138,11 +122,6 @@ weight = 4
 weight = 5
 name = "News"
 URL = "news"
-  
-[[menu.main]]
-name = "Contact"
-URL = "contact"
-weight = 6
 
 # footer menu
 
