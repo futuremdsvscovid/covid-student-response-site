@@ -148,7 +148,7 @@ URL = "news"
 
 #################### default parameters ################################
 [params]
-logo = "images/logo.png"
+logo = "images/logo_white.png"
 # Meta data
 description = "Coordinating the medical student response to COVID-19"
 author = "Benjamin Levy"
