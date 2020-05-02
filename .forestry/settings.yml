@@ -16,7 +16,7 @@ sections:
   match: "**/*.md"
 - type: directory
   path: content/english/campaigns
-  label: content
+  label: campaigns
   create: all
   match: "**/*.md"
 - type: directory
