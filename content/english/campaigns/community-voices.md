@@ -10,6 +10,8 @@ image: "images/campaigns/covid-map.jpg"
 # type
 type: "campaigns"
 url: "/voices"
+aliases:
+    - "/campaigns/community-voices"
 ---
 
 During this time of social distancing, all of us are at risk of becoming increasingly 
