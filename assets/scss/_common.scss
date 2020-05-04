@@ -25,7 +25,7 @@ body {
 
 ol,
 ul {
-  list-style-type: none;
+  list-style-type: disc;
   margin: 0px;
 }
 
@@ -348,7 +348,7 @@ textarea.form-control{
       position: relative;
       padding-left: 20px;
       margin-bottom: 10px;
-      list-style-type: none;
+      list-style-type: disc;
 
       &::before {
         position: absolute;
