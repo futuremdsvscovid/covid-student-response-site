@@ -2,11 +2,11 @@
 title: "Community Voices Initiative"
 draft: false
 # page title background image
-bg_image: "images/campaigns/covid-map.jpg"
+bg_image: "images/campaigns/community-voices.png"
 # meta description
 description : "In order to flatten the curve of COVID-19, we need to practice physical distancing, but we need to remain socially connected."
 # Research image
-image: "images/campaigns/covid-map.jpg"
+image: "images/campaigns/community-voices.png"
 # type
 type: "campaigns"
 url: "/voices"
