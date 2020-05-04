@@ -99,7 +99,8 @@ type: "ppe"
    Saturday from 10 to 12 in the courtyard outside the church. All are welcome. 
    No ID required and no restrictions based on residency or income. 
    This system will be in place for the duration of the COVID-19 crisis, 
-   at which time the pantry will return to its usual procedures. More info [here].
+   at which time the pantry will return to its usual procedures. More info 
+   [here](https://www.finditcambridge.org/programs/food-pantry-st-paul-parish).
 
 -   For access to food in the broader Massachusetts area, call the
     [FoodSource
