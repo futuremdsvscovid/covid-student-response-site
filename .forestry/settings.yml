@@ -30,9 +30,9 @@ sections:
   path: static/files
   label: Static files
   create: all
-  match: "**/*"
-upload_dir: uploads
-public_path: "/uploads"
+  match: "**/*.pdf"
+upload_dir: static
+public_path: static
 front_matter_path: ''
 use_front_matter_path: false
 file_template: ":filename:"
