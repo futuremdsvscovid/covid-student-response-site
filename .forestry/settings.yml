@@ -30,7 +30,7 @@ sections:
   path: static/files
   label: Static files
   create: all
-  match: "**/*"
+  match: "**/*.pdf"
 upload_dir: uploads
 public_path: "/uploads"
 front_matter_path: ''
