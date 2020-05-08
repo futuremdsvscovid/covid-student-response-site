@@ -16,7 +16,7 @@ on their responses to the COVID-19 pandemic.
 
 ***
 
-* **Organizing translation of culturally relevant, medically verified COVID19 documents and videos into Indigenous languages.**
+* Organizing translation of culturally relevant, medically verified COVID19 documents and videos into Indigenous languages.
 * Offering culturally aware consultation/technical guidance to Indigenous community leaders on their COVID19 action plans.
 * Publishing articles on what Indigenous community partners are facing during the pandemic and how they are responding for advocacy support.
 * Hosting webinars with UNICEF focused on Indigenous youth mental health during the pandemic.
