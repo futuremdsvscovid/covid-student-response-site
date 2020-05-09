@@ -43,7 +43,7 @@ UN Global Indigenous Youth Caucus (GIYC), Harvard Medical School COVID-19 Studen
 
 ### Regional Teams:
 
-### Africa
+#### Africa
 
 _Indigenous Youth Leaders_: Carson Kiburo (Kenya), Gift Parseen (Kenya), Yves Minani (Burundi)
 
@@ -109,8 +109,7 @@ _Indigenous Partner Nation and Community Leader_: Isabelle Wallace, Kangiqsualuj
 * Dr. Dennis Norman (Indigenous Physician, Native mental health specialist)
 * Dr. Adal Rhoubeid (Indigenous Physician, Politician in Niger)
 * Dr. Marise Stuart (Indigenous physician)
-* Dr. Sudha Balakrishnan (Physician, UN Health Specialist)
-* Amanda Myran (Indigenous Registered Nurse, Indigenous education specialist).
+* Amanda Myran (Indigenous Registered Nurse)
 * Dr. Kathe Miller (Physician)
 * Dr. Sudha Balakrishnan (Physician, UN Health Specialist)
 * Dr. Serena Chao (Physician)
