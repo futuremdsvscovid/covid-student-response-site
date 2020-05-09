@@ -41,9 +41,9 @@ UN Global Indigenous Youth Caucus (GIYC), Harvard Medical School COVID-19 Studen
 
 **HMS Team Leaders:** Brendan Eappen, Ziwei Chen, Carson Moss, Michelle Sunjoo Lee
 
-### Regional Teams: 
+### Regional Teams:
 
-#### Africa
+### Africa
 
 _Indigenous Youth Leaders_: Carson Kiburo (Kenya), Gift Parseen (Kenya), Yves Minani (Burundi)
 
@@ -99,7 +99,7 @@ _Medical/Health Professional Students_: Maddy Espo, Brendan Eappen, Kira Pavagad
 
 _Indigenous Partner Nation and Community Leader_: Isabelle Wallace, Kangiqsualujjuaq Inuit Village, Nunavik, Northern Canada
 
-#### Campaign Advisers
+### Campaign Advisers
 
 * Dr. Mariam Wallet (Indigenous Physician, former Chair of the UNPFII)
 * Dr. Matt Tobey (Physician, Rural/Native Health Specialist)
