@@ -7,20 +7,18 @@ bg_image: images/campaigns/indigenous-health-partnership/banner.jpg
 type: campaigns
 
 ---
-Led by Indigenous youth, the COVID-19 Indigenous Health Partnership brings
-together medical students, physicians, allied health professionals,
-and human rights experts to partner with Indigenous Peoples and communities
-on their responses to the COVID-19 pandemic.
+Led by Indigenous youth, the COVID-19 Indigenous Health Partnership brings together medical students, physicians, allied health professionals, and human rights experts to partner with Indigenous Peoples and communities on their responses to the COVID-19 pandemic.
 
 ## Purpose
 
 ***
 
-* Organizing translation of culturally relevant, medically verified COVID19 documents and videos into Indigenous languages.
+* Partner with 7 Indigenous Nations, one from each UN Indigenous world region.
+* Organizing translation of culturally relevant, medically verified COVID19 documents and videos into 100+ Indigenous languages.
 * Offering culturally aware consultation/technical guidance to Indigenous community leaders on their COVID19 action plans.
-* Publishing articles on what Indigenous community partners are facing during the pandemic and how they are responding for advocacy support.
-* Hosting webinars with UNICEF focused on Indigenous youth mental health during the pandemic.
-* Connecting Indigenous communities to resources for medical equipment, telemedicine, and other assistance.
+* Publishing articles with the UN on what our Indigenous community partners are facing during the pandemic and how they are responding for advocacy support.
+* Hosting webinars with UNICEF, the UN Youth Envoy, and UN IFAD focused on Indigenous youth mental health and food security during the pandemic.
+* Bringing together Indigenous chef's from around the world to promote nutrition inspired by traditional foods and recipes.
 * Build long-term relationships between Indigenous communities and Harvard Medical School.
 
 {{< youtube EPSqEJ-YJrk >}}
@@ -29,82 +27,83 @@ on their responses to the COVID-19 pandemic.
 
 ***
 
-UN Global Indigenous Youth Caucus (GIYC),
-Harvard Medical School COVID-19 Student Response Team,
-UN Youth Envoy, UN Permanent Forum on Indigenous Issues (UNPFII),
-International Fund for Agricultural Development (IFAD),
-UN International Children’s Emergency Fund (UNICEF).
+UN Global Indigenous Youth Caucus (GIYC), Harvard Medical School COVID-19 Student Response Team, UN Youth Envoy, UN Permanent Forum on Indigenous Issues (UNPFII), International Fund for Agricultural Development (IFAD), UN International Children’s Emergency Fund (UNICEF), UN Food and Agriculture Organisation (UN FAO).
 
-## Meet the Team
+## Meet the Teams
 
 ***
+
+### Coordination Team:
 
 **Project Lead:** Victor A. Lopez-Carmen
 
 **Indigenous Team Leaders:** Jessica Vega, Carson Kiburo
 
-**HMS Team Leaders:** Brendan Eappen, Carson Moss
+**HMS Team Leaders:** Brendan Eappen, Ziwei Chen, Carson Moss, Michelle Sunjoo Lee
+
+### Regional Teams: 
 
 #### Africa
 
-_Indigenous Youth Leaders_: Carson Kiburo (Kenya), Gift Parseen (Kenya),
-Yves Minani (Burundi)
+_Indigenous Youth Leaders_: Carson Kiburo (Kenya), Gift Parseen (Kenya), Yves Minani (Burundi)
 
-_Medical/Health Professional Students_: Cameron Comrie, Kevin Salinas,
-Logan Beyer
+_Medical/Health Professional Students_: Cameron Comrie, Kevin Salinas, Logan Beyer
+
+_Indigenous Partner Nation and Community Leader_: Emily Lerosion, Samburu Indigenous Peoples (Northern Kenya)
 
 #### The Pacific
 
-_Indigenous Youth Leaders_: Ivan Ingram (Australia), Marise Stuart (New
-Zealand), Jack Collard (Australia)
+_Indigenous Youth Leaders_: Ivan Ingram (Australia), Marise Stuart (New Zealand), Jack Collard (Australia)
 
-_Medical/Health Professional Students_: Senan Ebrahim, Abigail Baldwin,
-Kate Higgins,
+_Medical/Health Professional Students_: Senan Ebrahim, Abigail Baldwin, Kate Higgins
+
+_Indigenous Partner Nation and Community Leader_: Bernice Hookey, Waanyi Peoples of the Lower Gulf of Carpentaria in Queensland, Australia
 
 #### North America
 
-_Indigenous Youth Leaders_: Alexis Manzano (USA), Carrington Christmas
-(Canada), Shanese Steele (Canada), Sam Mukwa (Canada), James
-Walkingstick (USA), Victoria Marchland (Canada)
+_Indigenous Youth Leaders_: Alexis Manzano (USA), Carrington Christmas (Canada), Shanese Steele (Canada), Sam Mukwa (Canada), James Walkingstick (USA), Victoria Marchland (Canada)
 
-_Medical/Health Professional Students_: Kate Brettin, Carson Moss,
-Margaret Irwin
+_Medical/Health Professional Students_: Carson Moss, Kate Brettin, Margaret Irwin, Shelbie Shelders, Katie Kester, Sukhmeet Sachal, Erica DiFranco, Thilaxcy Yohathasan, Sterling Stutz, Katie Kester, Sterling Stutz
+
+_Indigenous Partner Nation and Community Leader_: Janene Yazzie, Navajo Nation, New Mexico, USA
 
 #### Eastern Europe, Russian Federation, Central Asia and Transcaucasia
 
-_Indigenous Youth Leaders_: Elvir Sagirman (Ukraine), Natalia Vaskova
-(Russia)
+_Indigenous Youth Leaders_: Elvir Sagirman (Ukraine), Natalia Vaskova (Russia)
 
-_Medical/Health Professional Students_: Jonah Blumenthal, Allison
-Fialkowski
+_Medical/Health Professional Students_: Jonah Blumenthal, Allison Fialkowski
+
+_Indigenous Partner Nation and Community Leader_: Marina Ycha, Ulchi Indigenous Peoples of Russia
 
 #### Central/South America and the Caribbean
 
-_Indigenous Youth Leaders_: Jessica Vega (Mexico), Niria Alicia
-(Mexico), Taily Terena (Brazil), Antonia Benito (Guatemala)
+_Indigenous Youth Leaders_: Jessica Vega (Mexico), Taily Terena (Brazil), Antonia Benito (Guatemala)
 
-_Medical/Health Professional Students_: Michelle Lee, Casey Poore,
-Gabriella Herrera
+_Medical/Health Professional Students_: Michelle Lee, Casey Orozco-Poore, Gabriella Herrera, Vanessa Beltran
+
+_Indigenous Partner Nation and Community Leader_: Itoewaki Jupta, Wayana Peoples of the Amazon, Suriname
 
 #### Asia
 
-_Indigenous Youth Leaders_: Anish Shrestha (Nepal), Czarriane Aisah
-(Philippines)
+_Indigenous Youth Leaders_: Anish Shrestha (Nepal), Czarriane Aisah (Philippines)
 
-_Medical/Health Professional Students_: Jason Li, Caroline Lee, Ziwei
-Chen
+_Medical/Health Professional Students_: Jason Li, Caroline Lee, Ziwei Chen, Jennie Kim, Julie Kim
+
+_Indigenous Partner Nation and Community Leader_: Gabriel Tripura, Chittagong Hill Tracts Indigenous Peoples, Bangladesh
 
 #### The Arctic
 
-_Indigenous Youth Leaders_: Seqi Poulsen (Greenland), Victor Lopez-Carmen (USA)
+_Indigenous Youth Leaders_: Seqi Poulsen (Greenland)
 
-_Medical/Health Professional Students_: Maddy Espo, Brendan Eappen
+_Medical/Health Professional Students_: Maddy Espo, Brendan Eappen, Kira Pavagadhi, Victor Lopez-Carmen
+
+_Indigenous Partner Nation and Community Leader_: Isabelle Wallace, Kangiqsualujjuaq Inuit Village, Nunavik, Northern Canada
 
 #### Campaign Advisers
 
 * Dr. Mariam Wallet (Indigenous Physician, former Chair of the UNPFII)
 * Dr. Matt Tobey (Physician, Rural/Native Health Specialist)
-* Ghazali Ohorella (Indigenous rights expert)
+* Ghazali Ohorella (Lawyer, Indigenous rights expert)
 * Dr. Tom Sequist (Indigenous Physician and Chief Quality Officer at Partners HealthCare)
 * Dr. Monie Carillo (Physician, Indian Health Services)
 * Dr. Dennis Norman (Indigenous Physician, Native mental health specialist)
@@ -112,7 +111,11 @@ _Medical/Health Professional Students_: Maddy Espo, Brendan Eappen
 * Dr. Marise Stuart (Indigenous physician)
 * Dr. Sudha Balakrishnan (Physician, UN Health Specialist)
 * Amanda Myran (Indigenous Registered Nurse, Indigenous education specialist).
-* Dr. Karen Miller (Physician)
+* Dr. Kathe Miller (Physician)
+* Dr. Sudha Balakrishnan (Physician, UN Health Specialist)
+* Dr. Serena Chao (Physician)
+* Dr. Joe Gone (Indigenous Psychologist)
+* Dr. Sara Selig (Physician)
 
 ## Get involved
 
