@@ -1,16 +1,12 @@
 ---
-title: "Mental Health Initiative"
+title: Mental Health Initiative
 draft: false
-# page title background image
-# meta description
-description : ""
-# Research image
-image: "images/campaigns/mental-health-initiative.jpg"
-# type
-type: "campaigns"
-css: "css/mental-health.css"
----
+description: ''
+image: images/campaigns/mental-health-initiative.jpg
+type: campaigns
+css: css/mental-health.css
 
+---
 ## Education
 
 #### COVID-19 Mental Health Curriculum Module
@@ -47,16 +43,16 @@ COVID-19 pandemic.
 Contact: [Aliya Feroe](mailto:aliya_feroe@hms.harvard.edu)
 
 [Twitter](https://twitter.com/FutureMDvsCOVID)/[Instagram](https://www.instagram.com/futuremdvscovid/)/[Facebook](https://www.facebook.com/futureMDvsCOVID/)/[YouTube](https://www.youtube.com/channel/UCNSJiiJCVFbWVLxgJBMAsbg):
-\@FutureMDvsCOVID
+@FutureMDvsCOVID
 
----
+***
 
 ## Wellness
 
 #### Collective Breather
 
 An All-New, Zoomified Wellness Course, with an aim to practice
-\#SocialConnectedness while respecting \#PhysicalDistancing. Please join
+\#SocialConnectedness while respecting #PhysicalDistancing. Please join
 this
 [GroupMe](https://groupme.com/join_group/59260255/EpTYJusH)
 for updates and more information.
@@ -98,13 +94,13 @@ Phone](https://blog.hubspot.com/marketing/good-pictures-phone-tips)
 **Virtual Museums:**
 
 <div class="row">
-    <div class="col-md-6 col-sm-12">
-    Miss going to museums? Why not take a virtual tour!
-    <a href="https://artsandculture.google.com/partner">Google Arts & Culture VirtualTours</a>
-    </div>
-    <div class="col-md-6 col-sm-12">
-        {{< figure src="/images/campaigns/mental-health/google-arts-and-culture.png" >}}
-    </div>
+<div class="col-md-6 col-sm-12">
+Miss going to museums? Why not take a virtual tour!
+<a href="https://artsandculture.google.com/partner">Google Arts & Culture VirtualTours</a>
+</div>
+<div class="col-md-6 col-sm-12">
+{{< figure src="/images/campaigns/mental-health/google-arts-and-culture.png" >}}
+</div>
 </div>
 
 **Writing**
@@ -142,7 +138,7 @@ If you have any suggestions or recommendations, please reach out to
 Mental Wellbeing" Video Series** by Dr. Tara Cousineau, PhD.
 
 "Courage. Presence. Resilience. CPR for Mental Wellbeing is a workshop
-series that Tara Cousineau PhD presents at Harvard University\'s
+series that Tara Cousineau PhD presents at Harvard University's
 Counseling and Mental Health Center. She offers these vids (5-15
 minutes) as resiliency tools that may serve you in stressful and
 disruptive times."
@@ -175,14 +171,14 @@ here](https://www.youtube.com/watch?time_continue=453&v=8YYGpHxj_tY&feature=emb_
 
 Contact:
 
-Instagram and Facebook: \@coreodancefit
+Instagram and Facebook: @coreodancefit
 
 Website:
 [www.coreofitness.com](http://www.coreofitness.com) /
 [www.coreofitness.com/schedule](http://www.coreofitness.com/schedule)
 
 Email:
-[flyhigh\@coreofitness.com](mailto:flyhigh@coreofitness.com)
+[flyhigh@coreofitness.com](mailto:flyhigh@coreofitness.com)
 
 #### MM Workout of the Day
 
@@ -214,13 +210,13 @@ Odewade](mailto:henry_ashworth@hms.harvard.edu),
 [Christopher
 Lites](mailto:Christopher.J.Lites.MED@dartmouth.edu)
 
----
+***
 
 ## Building Virtual Communities
 
 #### Social Events Calendar
 
-As a part of the Mental Health Initiative, we\'ve organized a few
+As a part of the Mental Health Initiative, we've organized a few
 social, wellness and mindfulness events across the month for HMS
 students to come together, reflect, have some fun and build community.
 Past events and upcoming events include karaoke night, virtual game
@@ -231,17 +227,13 @@ for more details. To add events to the calendar, please reach out to
 Anderson](mailto:jacob_p_anderson@hms.harvard.edu) &
 [Jordan Petersen](mailto:jordan_petersen@hms.harvard.edu).
 
-{{% center %}}
-<iframe src="https://calendar.google.com/calendar/embed?src=hrkavr1nne7mr1b2ga4e3u82dc%40group.calendar.google.com&ctz=America%2FToronto" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
-{{% /center %}}
-
 #### HMS Book Club
 
 A **BOOK CLUB** is also in the works, so please fill out the form linked
-if you are interested. We\'re potentially reading Albert Camus\' The
-Plague which has eerie echoes of what\'s going on today but if people
-are COVID19 overloaded we\'ll pick out a different book or read other
-things together! We\'ll be going very SLOWLY so don\'t let that stop you
+if you are interested. We're potentially reading Albert Camus' The
+Plague which has eerie echoes of what's going on today but if people
+are COVID19 overloaded we'll pick out a different book or read other
+things together! We'll be going very SLOWLY so don't let that stop you
 from signing up.
 
 Contact: [Katie
@@ -255,7 +247,7 @@ Form:
 We hope you are all staying safe during these rapidly evolving times. To
 help kindle a sense of community amidst this period of social
 distancing, we are excited to, again, invite **Harvard Medical Students from all years** to participate in
-Zoomaments. \"What are Zoomaments, and why should I be so excited?\",
+Zoomaments. "What are Zoomaments, and why should I be so excited?",
 you may be wondering.
 
 Many of you may be more familiar with Lunchaments, a program started by
@@ -275,11 +267,11 @@ pairings week to week! Also, feel free to discontinue Zoomaments at any
 time by just sending us an email:)
 
 Contact:
-[zoomaments\@gmail.com](mailto:zoomaments@gmail.com)
+[zoomaments@gmail.com](mailto:zoomaments@gmail.com)
 
 Form: [Interest form](https://docs.google.com/forms/d/e/1FAIpQLScRh8695y5WZhJmC7IQgT4JYyzR1gp7uynDZJieooUmeYlHuQ/viewform)
 
----
+***
 
 ## Community Support
 
@@ -290,11 +282,9 @@ the guidance of Dr. Jennifer Porter, put together a PDF with resources
 for physical activity, sleep, mindfulness, and arts. Some highlights
 include:
 
--   Nutrition: The School of Public Health provides various [recipes](https://www.hsph.harvard.edu/nutritionsource/recipes-2/home-cooking/) and general [nutrition tips](https://www.hsph.harvard.edu/nutritionsource/nutrition-news/) during COVD-19
-
--   [Dark Noise](https://darknoise.app/): a wide-ranging library of different noises like campfires, rain, thunder, white noise, and more) TestFlight beta free during the pandemic.
-
--   [Reflections](https://harvardcovid19.weebly.com/): student-led reflection blog
+* Nutrition: The School of Public Health provides various [recipes](https://www.hsph.harvard.edu/nutritionsource/recipes-2/home-cooking/) and general [nutrition tips](https://www.hsph.harvard.edu/nutritionsource/nutrition-news/) during COVD-19
+* [Dark Noise](https://darknoise.app/): a wide-ranging library of different noises like campfires, rain, thunder, white noise, and more) TestFlight beta free during the pandemic.
+* [Reflections](https://harvardcovid19.weebly.com/): student-led reflection blog
 
 Link: [PDF can be found
 here](https://drive.google.com/drive/folders/1BnFYW-lzzRbazp2KVfMFvV2ExtY9ox9y)
@@ -304,53 +294,36 @@ Zhang](mailto:bessie_zhang@hms.harvard.edu)
 
 #### MA Community & Beyond
 
--   **Current initiatives:**
-
-    -   [Working Document of Community Resources](https://docs.google.com/document/d/1C0lnBqXwM-yJKHzSwdVhTVx1jhLrEAq_wp8m7ihSi3Y/edit)
-
--   **Therapy / Counseling**
-
-    -   Comprehensive, curated therapy directory by focus: [http://bit.ly/getatherapist](http://bit.ly/getatherapist)
-
--   **Emergency Supports**
-
-    -   [oston Emergency Services Team](http://northsuffolk.org/services/emergency-services/boston-emergency-services-team/) at North Suffolk Mental Health: **1-800-981-4357**
-
-    -   [MA Statewide Mobile Crisis Directory](https://www.masspartnership.com/pdf/ESPflyerindividualsandfamilies.pdf)
+* **Current initiatives:**
+  * [Working Document of Community Resources](https://docs.google.com/document/d/1C0lnBqXwM-yJKHzSwdVhTVx1jhLrEAq_wp8m7ihSi3Y/edit)
+* **Therapy / Counseling**
+  * Comprehensive, curated therapy directory by focus: [http://bit.ly/getatherapist](http://bit.ly/getatherapist)
+* **Emergency Supports**
+  * [oston Emergency Services Team](http://northsuffolk.org/services/emergency-services/boston-emergency-services-team/) at North Suffolk Mental Health: **1-800-981-4357**
+  * [MA Statewide Mobile Crisis Directory](https://www.masspartnership.com/pdf/ESPflyerindividualsandfamilies.pdf)
 
 #### National Resources
 
 {{% row %}}
 {{% column size="md-8" %}}
--   **Suicide and crisis hotlines**
 
-    -   **[Samaritans](https://samaritanshope.org/):** (877) 870-HOPE (4673), call or text 24/7
-
-    -   **[National Suicide Prevention Lifeline](https://suicidepreventionlifeline.org/):**
-
-        -   Language-specific:
-
-            -   English: 1-800-273-8255.
-
-            -   Spanish: 1-888-628-9454
-
-        -   Deaf/Hard-of-Hearing:
-
-            -   Video-Relay Service: 800-273-8255
-
-            -   TTY: 800-799-4889
-
-            -   Voice/Caption Phone: 800-273-8255
-
-            -   [Webchat](https://suicidepreventionlifeline.org/chat/)
-
--   **[The Trevor Project](https://www.thetrevorproject.org/):** 1-866-488-7386.
-
-    -   Young LGBTQ+ folks
-{{% /column %}}
-{{% column size="md-4" %}}
-{{< figure src=
-"/images/campaigns/mental-health/suicide-prevention.png" >}}
-{{< figure src="/images/campaigns/mental-health/trevor-project.png" >}}
-{{% /column %}}
-{{% /row %}}
+* **Suicide and crisis hotlines**
+  * [**Samaritans**](https://samaritanshope.org/)**:** (877) 870-HOPE (4673), call or text 24/7
+  * [**National Suicide Prevention Lifeline**](https://suicidepreventionlifeline.org/)**:**
+    * Language-specific:
+      * English: 1-800-273-8255.
+      * Spanish: 1-888-628-9454
+    * Deaf/Hard-of-Hearing:
+      * Video-Relay Service: 800-273-8255
+      * TTY: 800-799-4889
+      * Voice/Caption Phone: 800-273-8255
+      * [Webchat](https://suicidepreventionlifeline.org/chat/)
+* [**The Trevor Project**](https://www.thetrevorproject.org/)**:** 1-866-488-7386.
+  * Young LGBTQ+ folks
+    {{% /column %}}
+    {{% column size="md-4" %}}
+    {{< figure src=
+    "/images/campaigns/mental-health/suicide-prevention.png" >}}
+    {{< figure src="/images/campaigns/mental-health/trevor-project.png" >}}
+    {{% /column %}}
+    {{% /row %}}
