@@ -1,14 +1,13 @@
 /*!------------------------------------------------------------------
 [MAIN STYLESHEET]
 
-PROJECT:	Project Name
-VERSION:	Versoin Number
 -------------------------------------------------------------------*/
 /*------------------------------------------------------------------
 [TABLE OF CONTENTS]
 -------------------------------------------------------------------*/
 /*  typography */
 @import url("https://fonts.googleapis.com/css?family=Poppins:300,400,500,600,700");
+@import url("https://fonts.googleapis.com/css2?family=Open+Sans&display=swap");
 @font-face {
   font-family: 'futura-bold';
   src: url("../fonts/Futura-Bold.woff") format("woff");
@@ -17,7 +16,7 @@ VERSION:	Versoin Number
 
 body {
   line-height: 1.2;
-  font-family: "Poppins", sans-serif;
+  font-family: "Open Sans", sans-serif;
   -webkit-font-smoothing: antialiased;
   font-size: 15px;
   color: #494343; }
@@ -27,11 +26,11 @@ p, .paragraph {
   color: #494343;
   font-size: 15px;
   line-height: 1.9;
-  font-family: "Poppins", sans-serif; }
+  font-family: "Open Sans", sans-serif; }
 
 h1, h2, h3, h4, h5, h6 {
   color: #000000;
-  font-family: "futura-bold";
+  font-family: "Open Sans", sans-serif;
   font-weight: 700;
   line-height: 1.2; }
 
@@ -68,7 +67,7 @@ h6, .h6 {
 /* Button style */
 .btn {
   font-size: 16px;
-  font-family: "Poppins", sans-serif;
+  font-family: "Open Sans", sans-serif;
   text-transform: capitalize;
   padding: 15px 40px;
   border-radius: 0;
@@ -288,7 +287,7 @@ a h4:hover {
   color: #000000 !important; }
 
 .font-secondary {
-  font-family: "futura-bold"; }
+  font-family: "Open Sans", sans-serif; }
 
 .mb-10 {
   margin-bottom: 10px !important; }
@@ -578,7 +577,7 @@ link:focus,
   position: relative;
   color: #000000;
   transition: .2s ease;
-  font-family: "Poppins", sans-serif; }
+  font-family: "Open Sans", sans-serif; }
   @media (max-width: 991px) {
     .navbar .dropdown-item {
       text-align: center; } }
@@ -739,7 +738,7 @@ link:focus,
 .card-date {
   position: absolute;
   background: #BC3B43;
-  font-family: "futura-bold";
+  font-family: "Open Sans", sans-serif;
   text-align: center;
   padding: 10px;
   color: #fff;

@@ -56,36 +56,6 @@ weight = 2
 name = "Campaigns"
 URL = "campaigns"
 hasChildren = false
-
-#  [[menu.main]]
-#  parent = "Campaigns"
-#  name = "Community Activism"
-#  URL = "campaigns/community-activism"
-#
-#  [[menu.main]]
-#  parent = "Campaigns"
-#  name = "@FutureMDvsCOVID"
-#  URL = "campaigns/social-media"
-#
-#  [[menu.main]]
-#  parent = "Campaigns"
-#  name = "Health Literacy Project"
-#  URL = "campaigns/health-literacy-project"
-#
-#  [[menu.main]]
-#  parent = "Campaigns"
-#  name = "Contra COVID"
-#  URL = "campaigns/contra-covid"
-#
-#  [[menu.main]]
-#  parent = "Campaigns"
-#  name = "Mental Health Initiative"
-#  URL = "campaigns/mental-health-initiative"
-#
-#  [[menu.main]]
-#  parent = "Campaigns"
-#  name = "Indigenous Health Partnership"
-#  URL = "campaigns/indigenous-health-partnership"
   
  [[menu.main]]
  name = "Resources"
@@ -122,28 +92,6 @@ weight = 4
 weight = 5
 name = "News"
 URL = "news"
-
-# footer menu
-
-#[[menu.footer]]
-#name = "teacher"
-#URL = "teacher"
-#
-#[[menu.footer]]
-#name = "notice"
-#URL = "notice"
-#
-#[[menu.footer]]
-#name = "event"
-#URL = "event"
-#
-#[[menu.footer]]
-#name = "scholarship"
-#URL = "scholarship"
-#
-#[[menu.footer]]
-#name = "research"
-#URL = "research"
 
 
 #################### default parameters ################################
