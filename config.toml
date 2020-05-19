@@ -1,5 +1,5 @@
 ######################## default configuration ####################
-baseURL = "https://elegant-hoover-af6a5c.netlify.app/"
+baseURL = "https://covidstudentresponse.org/"
 title = "COVID-19 Student Response"
 theme = "educenter-hugo"
 # post pagination
