@@ -170,7 +170,7 @@ navigationbuttons:
           url: "voices"
 
         - name: "Mental health initiative"
-          url: "mental-health-initiative"
+          url: "campaigns/mental-health-initiative"
 
     - name: "contribute"
       title: "To contribute"
