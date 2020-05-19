@@ -72,6 +72,7 @@
               {{ range .button_group }}
                 <div class="col-md-4 action-group">
                   <h4>{{ .title | markdownify }}</h4>
+                  <hr>
                   {{ range .items }}
                     <a href="{{ .url }}" class="btn btn-primary-outline rounded-pill extra-space">{{ .name }}</a>
                   {{ end }}
