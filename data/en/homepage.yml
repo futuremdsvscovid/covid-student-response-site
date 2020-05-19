@@ -157,7 +157,10 @@ navigationbuttons:
       title: "For support"
       items:
         # Non-clinical support for healthcare workers
-        - name: "Non-clinical support for healthcare workers"
+        - name: "Child care (healthcare workers)"
+          url: "/campaigns/non-clinical-support"
+
+        - name: "Groceries/errands (healthcare workers)"
           url: "/campaigns/non-clinical-support"
 
         - name: "Boston food resources"
