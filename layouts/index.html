@@ -65,12 +65,12 @@
         <div class="row align-items-center">
           <div class="col text-center">
             <h2 class="section-title">{{ .title | markdownify }}</h2>
-            <div class="row align-items-center">
+            <div class="row align-items-start">
               {{ range .button_group }}
                 <div class="col-md-4 action-group">
                   <h4>{{ .title | markdownify }}</h4>
                   {{ range .items }}
-                    <a href="{{ .url }}" class="btn btn-secondary">{{ .name }}</a>
+                    <a href="{{ .url }}" class="btn btn-primary-outline rounded-pill extra-space">{{ .name }}</a>
                   {{ end }}
                 </div>
               {{ end }}

@@ -807,3 +807,10 @@ link:focus,
     color: #BC3B43; }
   .filter-controls li:hover {
     color: #BC3B43; }
+
+.action-group {
+  height: 100%;
+  border-radius: 50%; }
+
+.extra-space {
+  margin: 5px; }
