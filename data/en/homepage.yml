@@ -68,7 +68,7 @@ slider:
 
 ############################## about ##################################
 about:
-  enable : true
+  enable : false
   title : "COVID-19 Student Response Team"
   image : "images/about/hms-building.jpg"
   content : Welcome to the COVID-19 Student Response page. This Team was founded by students at Harvard Medical School with chapters throughout the country.
@@ -86,7 +86,7 @@ course:
 
 ########################## Call to action ############################
 cta:
-  enable : true
+  enable : false
   subtitle : "Produced by Harvard Medical Students"
   title : "COVID-19 Curriculum"
   button:
@@ -145,3 +145,73 @@ blog:
   enable : true
   title : "Latest Posts"
   # blog item comes from "content/**/blog" folder.
+
+
+
+############################# navigation buttons ################################
+navigationbuttons:
+  enable: true
+  title: "I'm looking..."
+  button_group:
+    - name: "support"
+      title: "For support"
+      items:
+        # Non-clinical support for healthcare workers
+        - name: "Child care (healthcare workers)"
+          url: "/campaigns/non-clinical-support"
+
+        - name: "Groceries/errands (healthcare workers)"
+          url: "/campaigns/non-clinical-support"
+
+        - name: "Boston food resources"
+          url: "resources/boston-food"
+
+        - name: "Community voices"
+          url: "voices"
+
+        - name: "Mental health initiative"
+          url: "campaigns/mental-health-initiative"
+
+    - name: "contribute"
+      title: "To contribute"
+      items:
+        # Blood shortage initiative
+        - name: "Donate blood"
+          url: "/campaigns/blood-shortage"
+
+        - name: "PPE"
+          url: "/resources/ppe"
+
+        - name: "Anti-violence initiative"
+          url: "/campaigns/anti-violence-initiative"
+
+        - name: "Contra COVID"
+          url: "campaigns/contra-covid"
+
+        - name: "Indigenous health partnership"
+          url: "campaigns/indigenous-health-partnership"
+
+        - name: "Housing advocacy"
+          url: "campaigns/housing-advocacy"
+
+        - name: "Students vs. Pandemics"
+          url: "campaigns/students-vs-pandemics"
+
+    - name: "information"
+      title: "For information"
+      items:
+        # Curriculum
+        - name: "COVID-19 medical curriculum"
+          url: "https://curriculum.covidstudentresponse.org/"
+
+        - name: "K-12 curriculum"
+          url: "https://kids.covidstudentresponse.org/"
+
+        - name: "Debunking \"Plandemic\""
+          url: "#"
+
+        - name: "Infographics"
+          url: "campaigns/social-media"
+
+        - name: "Multi-lingual materials"
+          url: "campaigns/health-literacy-project"
