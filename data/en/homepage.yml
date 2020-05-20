@@ -208,7 +208,7 @@ navigationbuttons:
           url: "https://kids.covidstudentresponse.org/"
 
         - name: "Debunking \"Plandemic\""
-          url: "#"
+          url: "info/plandemic-fact-check"
 
         - name: "Infographics"
           url: "campaigns/social-media"
