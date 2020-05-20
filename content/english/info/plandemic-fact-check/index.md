@@ -6,7 +6,7 @@ draft: true
 # meta description
 description : "Plandemic Fact-Check is our effort to correct the scientific misinformation presented in a recent COVID-19 conspiracy video. "
 # Research image
-image: ""
+image: "intro.jpg"
 type: "longform"
 scss: "scss/longform.scss"
 # layout:: "single"
