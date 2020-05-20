@@ -1,6 +1,12 @@
+html {
+  scroll-behavior: smooth;
+}
 body {
   background-color: $body-color;
   overflow-x: hidden;
+}
+html, body {
+  scroll-padding-top: 100px;
 }
 
 ::selection {
@@ -25,7 +31,7 @@ body {
 
 ol,
 ul {
-  list-style-type: disc;
+  //list-style-type: disc;
   margin: 0px;
 }
 
@@ -350,16 +356,16 @@ textarea.form-control{
       margin-bottom: 10px;
       list-style-type: disc;
 
-      &::before {
-        position: absolute;
-        content: "\e65d";
-        font-family: $icon-font;
-        font-size: 14px;
-        left: 0;
-        top: 1px;
-        color: $primary-color;
-        transition: .3s ease;
-      }
+      //&::before {
+      //  position: absolute;
+      //  content: "\e65d";
+      //  font-family: $icon-font;
+      //  font-size: 14px;
+      //  left: 0;
+      //  top: 1px;
+      //  color: $primary-color;
+      //  transition: .3s ease;
+      //}
     }
   }
 

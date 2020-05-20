@@ -1,0 +1,34 @@
+{{ define "main" }}
+
+    <!-- longform -->
+    <section class="section-sm">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-8 order-2 order-lg-1">
+                    <div class="row">
+                        <div class="col-12">
+                            <h2 class="section-title">{{ .Title }}</h2>
+                        </div>
+                        {{ with .Params.Image }}
+                            <div class="col-12 mb-4">
+                                <img style="height:500px; width:100%;object-fit: contain;" alt="{{ .Title }}" src="{{ . | relURL }}" class="img-fluid w-100">
+                            </div>
+                        {{ end }}
+                    </div>
+                    <div class="row">
+                        <div class="col-12 mb-50 content">
+                            {{ .Content }}
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-4 order-1 order-lg-2">
+                    <aside class="table-of-contents">
+                        {{ .TableOfContents }}
+                    </aside>
+                </div>
+            </div>
+        </div>
+    </section>
+    <!-- /longform -->
+
+{{ end }}

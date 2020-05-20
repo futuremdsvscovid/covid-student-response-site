@@ -154,9 +154,15 @@ h6, .h6 {
     background: #BC3B43;
     color: #fff; }
 
+html {
+  scroll-behavior: smooth; }
+
 body {
   background-color: #fff;
   overflow-x: hidden; }
+
+html, body {
+  scroll-padding-top: 100px; }
 
 ::selection {
   background: #cc5e65;
@@ -177,7 +183,6 @@ body {
 
 ol,
 ul {
-  list-style-type: disc;
   margin: 0px; }
 
 img {
@@ -415,15 +420,6 @@ textarea.form-control {
     padding-left: 20px;
     margin-bottom: 10px;
     list-style-type: disc; }
-    .content ul li::before {
-      position: absolute;
-      content: "\e65d";
-      font-family: "themify";
-      font-size: 14px;
-      left: 0;
-      top: 1px;
-      color: #BC3B43;
-      transition: .3s ease; }
 
 .content table {
   text-align: left;
@@ -866,3 +862,18 @@ link:focus,
     -webkit-transform: translateY(-5px);
     -ms-transform: translateY(-5px);
     transform: translateY(-5px); } }
+
+.table-of-contents {
+  position: sticky;
+  top: 10rem;
+  align-self: start;
+  grid-template-columns: 100% 15em; }
+  .table-of-contents ul li {
+    list-style-type: none;
+    padding: 1em; }
+    .table-of-contents ul li a {
+      color: #797b7e;
+      font-size: 24px; }
+  .table-of-contents ul li.active a {
+    color: #494343;
+    font-weight: 900; }

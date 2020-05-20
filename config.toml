@@ -162,6 +162,11 @@ copyright = "Website &copy; 2020 [Benjamin Levy](https://benlevyx.github.io)"
 [markup.goldmark.renderer]
 unsafe= true
 
+[markup]
+  [markup.tableOfContents]
+    endLevel = 2
+    ordered = false
+    startLevel = 2
 
 ################################### Image processing #####################################
 [imaging]

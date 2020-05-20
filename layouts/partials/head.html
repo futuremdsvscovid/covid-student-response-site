@@ -18,6 +18,11 @@
     <link rel="stylesheet" href="{{ $pageStyles.Permalink }}">
   {{ end }}
 
+  {{ if .Params.scss }}
+    {{ $scssStyles := resources.Get (.Params.scss) | toCSS}}
+    <link rel="stylesheet" href="{{ $scssStyles.Permalink }}">
+  {{ end }}
+
   {{ if .Params.photoswipe }}
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/photoswipe/4.1.1/photoswipe.min.css" integrity="sha256-sCl5PUOGMLfFYctzDW3MtRib0ctyUvI9Qsmq2wXOeBY=" crossorigin="anonymous" />
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/photoswipe/4.1.1/default-skin/default-skin.min.css" integrity="sha256-BFeI1V+Vh1Rk37wswuOYn5lsTcaU96hGaI7OUVCLjPc=" crossorigin="anonymous" />
@@ -29,8 +34,8 @@
   <link rel="stylesheet" href="{{ $styles.Permalink }}" media="screen">
 
   {{ "<!-- My Stylesheet -->" | safeHTML }}
-  {{ $styles := resources.Get "css/style.css" | toCSS }}
-  <link rel="stylesheet" href="{{ $styles.Permalink }}" media="screen">
+  {{ $myStyles := resources.Get "css/style.css" | toCSS }}
+  <link rel="stylesheet" href="{{ $myStyles.Permalink }}" media="screen">
 
   {{ "<!--Favicon-->" | safeHTML }}
   <link rel="shortcut icon" href="{{ `images/favicon.png` | absURL }}" type="image/x-icon">
