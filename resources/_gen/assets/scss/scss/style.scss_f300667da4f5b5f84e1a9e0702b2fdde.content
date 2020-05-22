@@ -873,7 +873,7 @@ link:focus,
     padding: 1em; }
     .table-of-contents ul li a {
       color: #797b7e;
-      font-size: 24px; }
+      font-size: 20px; }
   .table-of-contents ul li.active a {
     color: #494343;
     font-weight: 900; }
