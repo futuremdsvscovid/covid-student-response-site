@@ -41,6 +41,8 @@ UN Global Indigenous Youth Caucus (GIYC), Harvard Medical School COVID-19 Studen
 
 **HMS Team Leaders:** Brendan Eappen, Ziwei Chen, Carson Moss, Michelle Sunjoo Lee
 
+**COVID-19 Animations Team Lead:** Emily Kragel
+
 ### Regional Teams:
 
 #### Africa
@@ -96,8 +98,6 @@ _Indigenous Partner Nation and Community Leader_: Gabriel Tripura, Chittagong Hi
 _Indigenous Youth Leaders_: Seqi Poulsen (Greenland)
 
 _Medical/Health Professional Students_: Maddy Espo, Brendan Eappen, Kira Pavagadhi, Victor Lopez-Carmen
-
-_Indigenous Partner Nation and Community Leader_: Isabelle Wallace, Kangiqsualujjuaq Inuit Village, Nunavik, Northern Canada
 
 ### Campaign Advisers
 
